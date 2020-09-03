@@ -38,8 +38,12 @@ showcase:
 about:
   enable: true
   title: "Quem sou eu?"
-  content: ‘<p class= “lead”>
-Tive minha vida transformada pela educação! Em 2014 ganhei uma bolsa na ASCES-UNITA para estudar Relações Internacionais e a partir de então, tive a oportunidade de participar de vários projetos. Me tornei  embaixadora e mentora do <a href = https://www.movimentochoice.com >Movimento Choice</a>, desenvolvendo negócios de impacto social. Também participei da imersão de <a href=” https://www.politize.com.br”> Embaixadores Politize</a>, que me possibilitou levar educação política para quase 1000 jovens e adultos em 2019 em Toritama. Atualmente sou líder municipal do movimento Acredito. Também sou fundadora do Modelo das Nações Unidas em Toritama para estudantes do ensino médio, projeto social que proporciona a adolescentes uma experiência de aprendizado sobre liderança, trabalho em equipe e cultural sobre diversos países. Recentemente me formei como aluna do <a href=https://renovabr.org> RenovaBR</a>, que tem como objetivo fazer pessoas comuns entrarem na politica e  fazerem transformações. Fui uma das selecionadas a participar do Programa Políticas do Amanhã idealizado pela Deputada Federal Tabata Amaral, para uma visita ao Congresso em Brasília e para participar da maior conferência mundial de jovens líderes, o <a href = https://www.oneyoungworld.com > One Young World </a>, em Londres.
+  content: '<p class="lead">
+    Tive minha vida transformada pela educação! Em 2014 ganhei uma bolsa na ASCES-UNITA para 
+    estudar Relações Internacionais e a partir de então, tive a oportunidade de participar de 
+    vários projetos. Me tornei  embaixadora e mentora do <a href = https://www.movimentochoice.com >Movimento Choice</a>, 
+    desenvolvendo negócios de impacto social. Também participei da imersão de <a href=” https://www.politize.com.br”> Embaixadores Politize</a>, 
+    que me possibilitou levar educação política para quase 1000 jovens e adultos em 2019 em Toritama. Atualmente sou líder municipal do movimento Acredito. Também sou fundadora do Modelo das Nações Unidas em Toritama para estudantes do ensino médio, projeto social que proporciona a adolescentes uma experiência de aprendizado sobre liderança, trabalho em equipe e cultural sobre diversos países. Recentemente me formei como aluna do <a href=https://renovabr.org> RenovaBR</a>, que tem como objetivo fazer pessoas comuns entrarem na politica e  fazerem transformações. Fui uma das selecionadas a participar do Programa Políticas do Amanhã idealizado pela Deputada Federal Tabata Amaral, para uma visita ao Congresso em Brasília e para participar da maior conferência mundial de jovens líderes, o <a href = https://www.oneyoungworld.com > One Young World </a>, em Londres.
     </p>'
 
   image:
