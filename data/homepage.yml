@@ -19,7 +19,7 @@ showcase:
   button:
         icon: "icon-arrow-right"
         btnText: "Vem falar comigo no WhatsApp!"
-        URL: "https://wa.me/message/F5D3WAEHOWHLF1 "
+        URL: "https://wa.me/message/F5D3WAEHOWHLF1"
 
 
     
@@ -58,8 +58,8 @@ about:
     como missão fazer com que pessoas comuns, como eu, entrem na política e causem transformações nesse país. 
     </p>'
   image:
-    x: "img/showcase/carol-bio.jpeg"
-    _2x: "img/showcase/carol-bio.jpeg"
+    x: "img/showcase/carol-bio.png"
+    _2x: "img/showcase/carol-bio.png"
 
 # trajetória
 education:
