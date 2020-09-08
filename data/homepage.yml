@@ -101,8 +101,8 @@ about5:
   as nossas vidas! 
     </p>'
   image:
-    x: "img/showcase/carol-alunos.jpeg"
-    _2x: "img/showcase/carol-alunos.jpeg"
+    x: "img/showcase/carol-alunos.jpg"
+    _2x: "img/showcase/carol-alunos.jpg"
 
 # trajetória
 education:
