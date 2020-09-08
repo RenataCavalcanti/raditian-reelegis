@@ -91,6 +91,18 @@ about4:
   image:
     x: "img/showcase/mun2.png"
     _2x: "img/showcase/mun2.png"
+about6:
+  enable: true
+  title: "algo aqui de novo tentando"
+  content: '<p class="lead">Acredito na mudança e renovação da política. 
+  É preciso incentivar a participação de todos na busca por melhores condições para que tenhamos 
+  um futuro promissor. Tenho muita energia, motivação e ideias inovadoras para alcançar este objetivo. 
+  Sei das dificuldades da nossa cidade e do nosso país, por isso sei da urgência da população por 
+  políticas que transformem as nossas vidas.
+    </p>'
+  image:
+    x: "img/showcase/carol-alunos.jpg"
+    _2x: "img/showcase/carol-alunos.jpg"
 about5:
   enable: true
   title: "algo aqui de novo tentando"
