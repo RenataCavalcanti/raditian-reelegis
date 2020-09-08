@@ -42,10 +42,7 @@ contentDir = "content/conteudo"
   URL = "#bandeiras"
   weight = 5
 
-  [[menu.header]]
-  name = "Apoiadores"
-  URL = "#apoiadores"
-  weight = 6
+
 
   [[menu.header]]
   name = "Voluntariado"
@@ -74,10 +71,6 @@ contentDir = "content/conteudo"
   URL = "#bandeiras"
   weight = 5
 
-  [[menu.footer]]
-  name = "Apoiadores"
-  URL = "#apoiadores"
-  weight = 6
 
   [[menu.footer]]
   name = "Voluntariado"
