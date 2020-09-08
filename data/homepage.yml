@@ -38,41 +38,43 @@ showcase:
 about:
   enable: true
   title: "Quem sou eu?"
-  content: '<p class="lead">
-    Tive minha vida transformada pela educação! Sou formada em Relações Internacionais pela ASCES-UNITA como aluna 
-    bolsista do FIES e participei de diversos projetos de extensão do LAPRI. Graças às bolsas de estudo, tive acesso 
-    a oportunidades, mas percebi logo cedo que poucos jovens com a minha mesma realidade de vida estão nesses espaços. 
-    E essa é também uma das minhas motivações para entrar na política.
+  content: '<p class="lead"> Nasci em 1996, sou filha de dois costureiros, Seu Edmilson e Dona Juciana. 
+  Sou a mais velha de três irmãos e cresci no bairro do Antão, em Toritama, município Pernambuco. 
+  Meu interesse em entrar para  politica aconteceu quando eu tinha seis anos e vi algumas crianças 
+  brincando próximo a um lixão, perguntei a minha mãe quem poderia resolver aquele problema e ela me 
+  respondeu que seriam os políticos. Foi ali que soube o que queria ser quando crescesse. Uma política! 
+  Mas, quando cresci fui logo percebendo que ser uma mulher na política não seria tão fácil assim. 
+  O Brasil costuma reeleger sempre os mesmos indivíduos, alguns deles passam anos e anos em um cargo, 
+  fazendo com que não haja representatividade de pessoas comuns ocupando cargos políticos e dando voz ao 
+  povo.
     </p>'
 about2:
   enable: true
   title: "algo aqui"
-  content: '<p class="lead">
-    Participo de movimentos sociais que possuem este propósito: mudar a vida das pessoas menos favorecidas. 
-    Já fui embaixadora e mentora do <a href= https://www.movimentochoice.com >Movimento Choice</a>, no qual 
-    desenvolvi negócios de impacto social. Também participei da imersão 
-    de <a href=” https://www.politize.com.br”> Embaixadores Politize</a>, que possibilitou levar educação 
-    política para quase 1000 jovens e adultos em 2019 em Toritama.
-    </p>
-    <p class="lead">
-    Sou fundadora do Modelo das Nações Unidas em Toritama para estudantes o ensino médio, projeto social que 
-    proporciona a adolescentes uma experiência de aprendizado sobre liderança, trabalho em equipe e cultural sobre 
-    diversos países. Mais recentemente me formei como aluna do <a href=https://renovabr.org> RenovaBR</a>, que tem 
-    como missão fazer com que pessoas comuns, como eu, entrem na política e causem transformações nesse país. 
-    </p>'
+  content: '<p class="lead"> Apesar de muitas dificuldades, consegui me formar 
+  em Relações Internacionais na ASCES-UNITA por meio de uma bolsa de Financiamento Estudantil, o FIES. 
+  Com isso, consegui acesso a muitas oportunidades que me proporcionaram um grande conhecimento sobre 
+  política. Me tornei  embaixadora e mentora do <a href= https://www.movimentochoice.com >Movimento Choice</a>, 
+  desenvolvendo negócios de impacto social. Também participei da imersão de Embaixadores Politize, 
+  que me possibilitou levar educação política para quase 1000 jovens e adultos em 2019 em Toritama. 
+  Estou como líder municipal do <a href= https://movimentoacredito.org >Movimento Acredito</a>. 
+  Sou fundadora do Modelo das Nações Unidas em Toritama para estudantes o ensino médio, projeto social 
+  proporciona a adolescentes uma experiência de aprendizado sobre liderança, trabalho em equipe e cultural 
+  sobre diversos países.
+</p>'
   image:
     x: "img/showcase/formada.png"
     _2x: "img/showcase/formada.png"
 about3:
   enable: true
   title: "algo aqui de novo tentando"
-  content: '<p class="lead">Meu interesse em entrar para  politica aconteceu quando eu tinha 
-  seis anos e vi algumas crianças brincando próximo a um lixão, perguntei a minha mãe quem poderia 
-  resolver aquele problema e ela me respondeu que seriam os políticos, foi ali que soube o que queria 
-  ser quando crescesse. Uma política! Mas, quando cresci percebi que ser uma mulher na política não 
-  seria tão fácil assim. O Brasil costuma reeleger sempre os mesmos indivíduos,alguns deles passam anos 
-  e anos em um cargo,fazendo que não haja representatividade de pessoas comuns ocupando cargos políticos 
-  e dando voz ao povo
+  content: '<p class="lead"> Também tive a grande oportunidade de ser uma das selecionadas a 
+  participar do Programa Políticas do Amanhã idealizado pela Deputada Federal Tabata Amaral, 
+  para uma visita ao Congresso em Brasília e também participar da maior conferência mundial de jovens 
+  líderes, o One Young World, em Londres. Sou fundadora da MUNTO, organização que simula modelos da ONU 
+  para estudantes da rede pública. Recentemente me formei como aluna
+   do <a href=https://renovabr.org> RenovaBR</a>, que tem como missão fazer com que pessoas comuns, 
+   como eu, entrem na política e causem transformações nesse país. 
     </p>'
   image:
     x: "img/showcase/formada.png"
@@ -80,17 +82,27 @@ about3:
 about4:
   enable: true
   title: "algo aqui de novo tentando"
-  content: '<p class="lead">Meu interesse em entrar para  politica aconteceu quando eu tinha 
-  seis anos e vi algumas crianças brincando próximo a um lixão, perguntei a minha mãe quem poderia 
-  resolver aquele problema e ela me respondeu que seriam os políticos, foi ali que soube o que queria 
-  ser quando crescesse. Uma política! Mas, quando cresci percebi que ser uma mulher na política não 
-  seria tão fácil assim. O Brasil costuma reeleger sempre os mesmos indivíduos,alguns deles passam anos 
-  e anos em um cargo,fazendo que não haja representatividade de pessoas comuns ocupando cargos políticos 
-  e dando voz ao povo
+  content: '<p class="lead">A política vem fazendo parte da minha vida desde o início e, 
+  através dos esforços da minha família, pude participar de muitas oportunidades que me foram 
+  proporcionadas. Mas ao mesmo tempo sei que muitos jovens não conseguem ter esse acesso. 
+  Por isso, luto para que eu não seja a única entre muitos! Luto para que todos possam ter 
+  as mesmas oportunidades que tive até hoje.
     </p>'
   image:
     x: "img/showcase/mun2.png"
     _2x: "img/showcase/mun2.png"
+about5:
+  enable: true
+  title: "algo aqui de novo tentando"
+  content: '<p class="lead">Conheço as dificuldades que os jovens enfrentam porque essa é a minha 
+  realidade. A minha motivação é poder proporcionar os mesmos esforços doso meus pais para centenas 
+  de pessoas que se encontram nesta situação. Sei da importância da educação na vida de todos. 
+  Ela abre janelas e portas para um novo mundo! Um mundo cheio de oportunidades que podem melhorar 
+  as nossas vidas! 
+    </p>'
+  image:
+    x: "img/showcase/carol-alunos.jpeg"
+    _2x: "img/showcase/carol-alunos.jpeg"
 
 # trajetória
 education:
