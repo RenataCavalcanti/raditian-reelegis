@@ -12,11 +12,11 @@ showcase:
   Cresci no bairro do Antão e formada em Relações Internacionais. Vem me conhecer! "
   image:
     alt: "Carol Goncalves"
-    x: "img/showcase/carolfront.png"
-    _2x: "img/showcase/carolfront.png"
+    x: "img/showcase/carol-bio2.png"
+    _2x: "img/showcase/carol-bio2.png"
   imageMobile:
     alt: "Carol Goncalves"
-    x: "img/showcase/carolfront.png"
+    x: "img/showcase/carol-bio2.png"
   button:
         icon: "icon-arrow-right"
         btnText: "Vem falar comigo no WhatsApp!"
@@ -33,6 +33,8 @@ showcase:
 
     - icon: "facebook"
       URL: "https://www.facebook.com/carolayne.kelley"
+    - icon: "youtube"
+      URL: "https://www.youtube.com"
 
 
 # about
