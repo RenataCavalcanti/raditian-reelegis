@@ -12,11 +12,11 @@ showcase:
   Cresci no bairro do Antão e formada em Relações Internacionais. Vem me conhecer! "
   image:
     alt: "Carol Goncalves"
-    x: "img/showcase/carol-bio.png"
-    _2x: "img/showcase/carol-bio.png"
+    x: "img/showcase/carolfront.png"
+    _2x: "img/showcase/carolfront.png"
   imageMobile:
     alt: "Carol Goncalves"
-    x: "img/showcase/carol-bio.png"
+    x: "img/showcase/carolfront.png"
   button:
         icon: "icon-arrow-right"
         btnText: "Vem falar comigo no WhatsApp!"
@@ -141,7 +141,7 @@ education:
       comprometidas com o bem comum, com o exercício da fraternidade como categoria política. 
       Realizei diversas atividades como membro desde projeto, uma delas foi a formação dos conselheiros 
       de segurança cidadã de Caruaru, onde estive como facilitadora da oficina. "
-    - university: "7.	SECRETARIA DE DESENVOLVIMENTO ECONOMICO E ECONOMIA CRIATIVA DE CARUARU-SEDEEC, Estagiária"
+    - university: "SECRETARIA DE DESENVOLVIMENTO ECONOMICO E ECONOMIA CRIATIVA DE CARUARU-SEDEEC, Estagiária"
       year: "2018"
       degree: "Tive a oportunidade de auxiliar na Coordenação de Economia Criativa, a qual participei 
       dos projetos relacionados ao Programa Conecta Oportunidades, realizei pesquisas nacionais e 
@@ -161,7 +161,7 @@ education:
       conscientes e comprometidos com a democracia. Enquanto embaixadora atuei por meio da educação 
       política para pouco mais de 1000 adolescentes e jovens de Toritama, sempre com muito respeito 
       pela pluralidade de ideias, crenças e posições."
-    - university: "9.	CONTROLADORIA GERAL DO MUNICIPIO DE TORITAMA-CGM, Estagiária"
+    - university: "CONTROLADORIA GERAL DO MUNICIPIO DE TORITAMA-CGM, Estagiária"
       year: "2019"
       degree: "Tive a oportunidade de colaborar para o desenvolvimentos de políticas públicas 
       relacionadas a participação e transparência no governo local, através de um projeto chamado 
