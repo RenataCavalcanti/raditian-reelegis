@@ -36,7 +36,6 @@ showcase:
     - icon: "youtube"
       URL: "https://www.youtube.com"
 
-
 # about
 about:
   enable: true
@@ -51,6 +50,9 @@ about:
   fazendo com que não haja representatividade de pessoas comuns ocupando cargos políticos e dando voz ao 
   povo.
     </p>'
+  image:
+    x: "img/showcase/formada1.PNG"
+    _2x: "img/showcase/formada1.PNG"
 about2:
   enable: true
   title: "algo aqui"
@@ -66,8 +68,8 @@ about2:
   sobre diversos países.
 </p>'
   image:
-    x: "img/showcase/formada.png"
-    _2x: "img/showcase/formada.png"
+    x: "img/showcase/infancia3.png"
+    _2x: "img/showcase/infancia3.png"
 about3:
   enable: true
   title: "algo aqui de novo tentando"
@@ -80,8 +82,8 @@ about3:
    como eu, entrem na política e causem transformações nesse país. 
     </p>'
   image:
-    x: "img/showcase/formada.png"
-    _2x: "img/showcase/formada.png"
+    x: "img/showcase/london5.png"
+    _2x: "img/showcase/london5.png"
 about4:
   enable: true
   title: "algo aqui de novo tentando"
@@ -118,7 +120,7 @@ about5:
   image:
     x: "img/showcase/carol-alunos.jpg"
     _2x: "img/showcase/carol-alunos.jpg"
-
+    
 # trajetória
 education:
   enable: true

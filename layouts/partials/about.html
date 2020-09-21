@@ -1,37 +1,48 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" type="text/css" media="screen and (max-width: 360px)" href="portrait.css">
-<link rel="stylesheet" type="text/css" media="screen and (min-width: 361px) and (max-width: 480px)" href="landscape.css">
-<link rel="stylesheet" type="text/css" media="screen and (min-width: 481px)" href="desktop.css">
 {{ if .Site.Data.homepage.about.enable }}
-<section id="biografia" class="section section--border-bottom">
-  <div class="container">
-    <h2 class=" rad-animation-group rad-fade-down">
+<section class="section rad-animation-group pb-0" id="biografia">
+  <div class="container rad-fade-down">
+    <div class="row d-flex flex-column-reverse flex-md-row">
+      <div class="about__profile-picture col-12 col-md-6">
+        <img
+          class="lozad img-responsive image-left-overflow"
+          src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+          data-src="{{ .Site.Data.homepage.about.image.x | absURL }}"
+          data-srcset="{{ .Site.Data.homepage.about.image.x | absURL }} 1x, {{ .Site.Data.homepage.about.image._2x | absURL }} 2x"
+          alt="Profile Picture" style="float: right;"
+        />
+      </div>
+      <div class="col-12 col-md-6 my-auto my-auto">
         <h2>{{ .Site.Data.homepage.about.title }}</h2>
-        <p class="lead"></p>
-    </h2>
-    <picture>
-      <source srcset="img/showcase/formada3.png" media="(max-width: 600px)">
-      <source srcset="img/showcase/formada3.png" media="(max-width: 1500px)">
-      <source srcset="img/showcase/formada3.png">
-      <img  class=" rad-animation-group rad-fade-down"
-      src="img/showcase/formada3.png" style="float: left;">
-    </picture>
-    <p class=" rad-animation-group rad-fade-down">Nasci em 1996, sou filha de dois costureiros, Seu Edmilson e Dona Juciana. 
-      Sou a mais velha de três irmãos e cresci no bairro do Antão, em Toritama, município Pernambuco. 
-      Meu interesse em entrar para  politica aconteceu quando eu tinha seis anos e vi algumas crianças 
-      brincando próximo a um lixão, perguntei a minha mãe quem poderia resolver aquele problema e ela me 
-      respondeu que seriam os políticos. Foi ali que soube o que queria ser quando crescesse. Uma política! 
-      Mas, quando cresci fui logo percebendo que ser uma mulher na política não seria tão fácil assim. </p>
-    <p class=" rad-animation-group rad-fade-down"> O Brasil costuma reeleger sempre os mesmos indivíduos, alguns deles passam anos e anos em um cargo, 
-      fazendo com que não haja representatividade de pessoas comuns ocupando cargos políticos e dando voz ao 
-      povo.</p>
-    <p class=" rad-animation-group rad-fade-down">Apesar de muitas dificuldades, consegui me formar 
-      em Relações Internacionais na ASCES-UNITA por meio de uma bolsa de Financiamento Estudantil, o FIES. </p>
-    <img class=" rad-animation-group rad-fade-down"
-    src="img/showcase/formada4.png" 
-    style="float: right;" />
-
-    <p class=" rad-animation-group rad-fade-down">Com isso, consegui acesso a muitas oportunidades que me proporcionaram um grande conhecimento sobre 
+        <p class="lead">
+          Nasci em 1996, sou filha de dois costureiros, Seu Edmilson e Dona Juciana. 
+          Sou a mais velha de três irmãos e cresci no bairro do Antão, em Toritama, município Pernambuco. 
+          Meu interesse em entrar para  politica aconteceu quando eu tinha seis anos e vi algumas crianças 
+          brincando próximo a um lixão, perguntei a minha mãe quem poderia resolver aquele problema e ela me 
+          respondeu que seriam os políticos. Foi ali que soube o que queria ser quando crescesse. Uma política! 
+          Mas, quando cresci fui logo percebendo que ser uma mulher na política não seria tão fácil assim. </p>
+        <p class="lead"> O Brasil costuma reeleger sempre os mesmos indivíduos, alguns deles passam anos e anos em um cargo, 
+          fazendo com que não haja representatividade de pessoas comuns ocupando cargos políticos e dando voz ao 
+          povo.</p>
+        <p class="lead">Apesar de muitas dificuldades, consegui me formar 
+          em Relações Internacionais na ASCES-UNITA por meio de uma bolsa de Financiamento Estudantil, o FIES. </p>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="container rad-fade-down">
+    <div class="row d-flex flex-column-reverse flex-md-row">
+      <div class="rad-showcase__bg">
+        <img
+          class="lozad img-responsive"
+          src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+          data-src="{{ .Site.Data.homepage.about2.image.x | absURL }}"
+          data-srcset="{{ .Site.Data.homepage.about2.image.x | absURL }} 1x, {{ .Site.Data.homepage.showcase.image._2x | absURL }} 2x"
+          alt="{{ .Site.Data.homepage.showcase.image.alt }}"
+        />
+      </div>
+      <div class="col-12 col-md-6 my-auto my-auto">    
+        <p class="lead">
+        Com isso, consegui acesso a muitas oportunidades que me proporcionaram um grande conhecimento sobre 
       política. Me tornei  embaixadora e mentora do <a href= https://www.movimentochoice.com >Movimento Choice</a>, 
       desenvolvendo negócios de impacto social. Também participei da imersão de Embaixadores Politize, 
       que me possibilitou levar educação política para quase 1000 jovens e adultos em 2019 em Toritama. 
@@ -39,35 +50,51 @@
       Sou fundadora do Modelo das Nações Unidas em Toritama para estudantes o ensino médio, projeto social 
       proporciona a adolescentes uma experiência de aprendizado sobre liderança, trabalho em equipe e cultural 
       sobre diversos países.</p>
-    <p class=" rad-animation-group rad-fade-down">Também tive a grande oportunidade de ser uma das duas mulheres no Brasil inteiro a 
+    <p class="lead">Também tive a grande oportunidade de ser uma das duas mulheres no Brasil inteiro a 
       participar do Programa Políticas do Amanhã idealizado pela Deputada Federal Tabata Amaral, 
       para uma visita ao Congresso em Brasília e também participar da maior conferência mundial de jovens 
       líderes, o One Young World, em Londres. Sou fundadora da MUNTO, organização que simula modelos da ONU 
       para estudantes da rede pública. Recentemente me formei como aluna
        do <a href=https://renovabr.org> RenovaBR</a>, que tem como missão fazer com que pessoas comuns, 
        como eu, entrem na política e causem transformações nesse país. </p>
-    <p class=" rad-animation-group rad-fade-down"> <font size="+2"><i>Luto para que eu não seja a única entre muitos! Luto para que todos possam ter 
+    <p class=" rad-animation-group rad-fade-down"> <font size="+2"><i>Luto para que eu não seja a única entre muitos. Luto para que todos possam ter 
         as mesmas oportunidades que tive até hoje!</i></font></p>
-    <p class=" rad-animation-group rad-fade-down">A política vem fazendo parte da minha vida desde o início e, 
-      através dos esforços da minha família, pude participar de muitas oportunidades que me foram 
-      proporcionadas. Mas ao mesmo tempo sei que muitos jovens não conseguem ter esse acesso. 
-      <b> Por isso, luto para que eu não seja a única entre muitos! Luto para que todos possam ter 
-      as mesmas oportunidades que tive até hoje.</b></p>
-    <img class=" rad-animation-group rad-fade-down"
-    src="img/showcase/london5.png" 
-    style="float: left;" width="500" />
-
-    <p class=" rad-animation-group rad-fade-down">Acredito na mudança e renovação da política. 
-      É preciso incentivar a participação de todos na busca por melhores condições para que tenhamos 
-      um futuro promissor. Tenho muita energia, motivação e ideias inovadoras para alcançar este objetivo. 
-      Sei das dificuldades da nossa cidade e do nosso país, por isso sei da urgência da população por 
-      políticas que transformem as nossas vidas.</p>
-    <p class=" rad-animation-group rad-fade-down">Conheço as dificuldades que os jovens enfrentam porque essa é a minha 
-      realidade. A minha motivação é poder proporcionar os mesmos esforços doso meus pais para centenas 
-      de pessoas que se encontram nesta situação. Sei da importância da educação na vida de todos. 
-      Ela abre janelas e portas para um novo mundo! Um mundo cheio de oportunidades que podem melhorar 
-      as nossas vidas! </p>
-
+    <div class="col-12 col-md-6 my-auto my-auto">    
+          <p class="lead"></p>
+        </div>  
+      </div>
+    </div>
+  </div>
+  <div class="container rad-fade-down">
+    <div class="row d-flex flex-column-reverse flex-md-row">
+      <div class="about__profile-picture col-12 col-md-6">
+        <img
+          class="lozad img-responsive image-left-overflow"
+          src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+          data-src="{{ .Site.Data.homepage.about3.image.x | absURL }}"
+          data-srcset="{{ .Site.Data.homepage.about3.image.x | absURL }} 1x, {{ .Site.Data.homepage.about3.image._2x | absURL }} 2x"
+          alt="Profile Picture" style="float: right;"
+        />
+      </div>
+      <div class="col-12 col-md-6 my-auto my-auto">
+        <p class="lead">A política vem fazendo parte da minha vida desde o início e, 
+          através dos esforços da minha família, pude participar de muitas oportunidades que me foram 
+          proporcionadas. Mas ao mesmo tempo sei que muitos jovens não conseguem ter esse acesso. 
+          <b> Por isso, luto para que eu não seja a única entre muitos! Luto para que todos possam ter 
+          as mesmas oportunidades que tive até hoje.
+        </p>
+        <p class="lead">Acredito na mudança e renovação da política. 
+          É preciso incentivar a participação de todos na busca por melhores condições para que tenhamos 
+          um futuro promissor. Tenho muita energia, motivação e ideias inovadoras para alcançar este objetivo. 
+          Sei das dificuldades da nossa cidade e do nosso país, por isso sei da urgência da população por 
+          políticas que transformem as nossas vidas.</p>
+        <p class=" lead">Conheço as dificuldades que os jovens enfrentam porque essa é a minha 
+          realidade. A minha motivação é poder proporcionar os mesmos esforços doso meus pais para centenas 
+          de pessoas que se encontram nesta situação. Sei da importância da educação na vida de todos. 
+          Ela abre janelas e portas para um novo mundo! Um mundo cheio de oportunidades que podem melhorar 
+          as nossas vidas! </p>
+      </div>
+    </div>
   </div>
 </section>
 {{ end }}
