@@ -6,7 +6,7 @@ homepage:
 showcase:
   enable: true
   title: "Olá, sou Carol Gonçalves."
-  subtitle: "Pré Candidata a Vereadora em Toritama/PE!"
+  subtitle: "Pré-Candidata a Vereadora em Toritama/PE!"
   description: "Sou uma jovem toritamense com muito orgulho. Tenho 24 anos, 
   filha de Dona Juciana e Seu Edmilson, ambos costureiros e irmã de Lucas e Tiago. 
   Cresci no bairro do Antão e sou formada em Relações Internacionais. Vem me conhecer! "
@@ -135,15 +135,12 @@ education:
     - university: "NÚCLEO CIVITAS, Membro"
       year: "2018"
       degree: "Projeto de extensão na faculdade ASCES-UNITA que visa à formação de pessoas 
-      comprometidas com o bem comum, com o exercício da fraternidade como categoria política. 
-      Realizei diversas atividades como membro desde projeto, uma delas foi a formação dos conselheiros 
-      de segurança cidadã de Caruaru, onde estive como facilitadora da oficina. "
+      comprometidas com o bem comum, com o exercício da fraternidade como categoria política."
     - university: "SECRETARIA DE DESENVOLVIMENTO ECONOMICO E ECONOMIA CRIATIVA DE CARUARU-SEDEEC, Estagiária"
       year: "2018"
       degree: "Tive a oportunidade de auxiliar na Coordenação de Economia Criativa, a qual participei 
-      dos projetos relacionados ao Programa Conecta Oportunidades, realizei pesquisas nacionais e 
-      internacionais de modelos econômicos para auxiliar no desenvolvimento da economia criativa do 
-      município, e participei da elaboração do Programa Meu Primeiro Emprego. Durante o estágio 
+      dos projetos relacionados ao Programa Conecta Oportunidades, e também da elaboração do Programa
+       Meu Primeiro Emprego. Durante o estágio 
       recebi uma capacitação para ser Agente de Desenvolvimento Local, esta proporcionada pelo SEBRAE 
       Caruaru. "
     - university: "MOVIMENTO ACREDITO, Liderança Cívica"
@@ -194,6 +191,7 @@ education:
       Com mentoria , formação política, uma rede de apoio e desenvolvimento  pessoal. 
       Para lutarmos por mais representatividade. Tenho a honra de ter como mentora a Margarete Coelho, 
       que é Deputada Federal pelo Piauí e foi Primeira mulher vice-governadora do Piauí!  "
+
 
 
 # doacoes / trajetoria
