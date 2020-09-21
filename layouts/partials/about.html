@@ -39,14 +39,6 @@
           alt="Profile Picture"
         />
       </div>
-      <div class="rad-showcase__bg rad-showcase__bg--mobile">
-        <img
-          class="lozad img-responsive"
-          src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
-          data-src="{{ .Site.Data.homepage.about2.imageMobile.x | absURL }}"
-          alt="{{ .Site.Data.homepage.about2.imageMobile.alt }}"
-        />
-      </div>
       <div class="col-12 col-md-6 my-auto my-auto">    
         <p class="lead">
         Com isso, consegui acesso a muitas oportunidades que me proporcionaram um grande conhecimento sobre 
@@ -102,6 +94,14 @@
           as nossas vidas! </p>
       </div>
     </div>
+  </div>
+  <div class="rad-showcase__bg rad-showcase__bg--mobile">
+    <img
+      class="lozad img-responsive"
+      src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+      data-src="{{ .Site.Data.homepage.about2.imageMobile.x | absURL }}"
+      alt="{{ .Site.Data.homepage.about2.imageMobile.alt }}"
+    />
   </div>
 </section>
 {{ end }}
