@@ -146,6 +146,13 @@ education:
       município, e participei da elaboração do Programa Meu Primeiro Emprego. Durante o estágio 
       recebi uma capacitação para ser Agente de Desenvolvimento Local, esta proporcionada pelo SEBRAE 
       Caruaru. "
+    - university: "MOVIMENTO ACREDITO, Liderança Cívica"
+      year: "2018"
+      degree: "Fui umas das 100 pessoas do Brasil inteiro a ser escolhida a partir de um criterioso 
+      processo seletivo, como Liderança cívica, que é um Programa do Movimento Acredito para dar 
+      apoio a novas candidaturas que querem transformar a política nas nossas cidades. Um movimento 
+      de renovação política nacional e suprapartidário."
+    - university: "POLITIZE, Liderança"
       year: "2019"
       degree: "Uma organização da sociedade civil (ONG) com a missão de formar uma geração de cidadãos 
       conscientes e comprometidos com a democracia. Enquanto embaixadora atuei por meio da educação 
@@ -314,8 +321,8 @@ testimonial:
   enable: true
   title: "Apoiadores"
   items:
-    - name: "Tabata Amaral"
-      position: "Deputada Estadual, PDT/SP"
+    - name: "Tábata Amaral"
+      position: "Deputada Federal, PDT/SP"
       content: "Ver uma mulher jovem, periférica, preparada e corajosa como a Carol ocupando o seu lugar na política me 
       dá muita alegria e esperança. Conte comigo, Carol! Tenho muito orgulho e admiração pelo seu trabalho e luta. 
       Seguimos juntas pelo direito de todas as crianças de sonharem sem limites!"
@@ -329,11 +336,11 @@ testimonial:
       Você tem feito uma pré-campanha belíssima. É um prazer acompanhar sua trajetória. Uma jovem batalhadora e com uma 
       história de vida muito bonita, que quer entrar na política e dar sua contribuição ao povo de Toritama."
       image:
-        x: "img/testimonials/raul.jpg"
-        _2x: "img/testimonials/raul.jpg"
+        x: "img/testimonials/raul4.jpg"
+        _2x: "img/testimonials/raul4.jpg"
 
     - name: "Felipe Oriá"
-      position: "RENOVA BR"
+      position: "Cofundador do Movimento Acredito"
       content: "Se uma mulher, jovem e preparada não é o símbolo de mudança para Toritama, 
       o que séria? Convido todos a conhecer Carol e participarem junto com ela da construção de uma 
       política diferente para a cidade"
