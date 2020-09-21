@@ -126,6 +126,14 @@ education:
   enable: true
   title: "Trajetória"
   items:
+    - university: "SECRETARIA DE DESENVOLVIMENTO ECONOMICO E ECONOMIA CRIATIVA DE CARUARU-SEDEEC, Estagiária"
+      year: "2018"
+      degree: "Tive a oportunidade de auxiliar na Coordenação de Economia Criativa, a qual participei 
+      dos projetos relacionados ao Programa Conecta Oportunidades, realizei pesquisas nacionais e 
+      internacionais de modelos econômicos para auxiliar no desenvolvimento da economia criativa do 
+      município, e participei da elaboração do Programa Meu Primeiro Emprego. Durante o estágio 
+      recebi uma capacitação para ser Agente de Desenvolvimento Local, esta proporcionada pelo SEBRAE 
+      Caruaru. "
     - university: "MOVIMENTO CHOICE, Embaixadora e Mentora"
       year: "2017"
       degree: "O Programa de Embaixadores Choice 2.0, visa impulsionar o potencial de transformação da 
@@ -138,26 +146,12 @@ education:
       comprometidas com o bem comum, com o exercício da fraternidade como categoria política. 
       Realizei diversas atividades como membro desde projeto, uma delas foi a formação dos conselheiros 
       de segurança cidadã de Caruaru, onde estive como facilitadora da oficina. "
-    - university: "SECRETARIA DE DESENVOLVIMENTO ECONOMICO E ECONOMIA CRIATIVA DE CARUARU-SEDEEC, Estagiária"
-      year: "2018"
-      degree: "Tive a oportunidade de auxiliar na Coordenação de Economia Criativa, a qual participei 
-      dos projetos relacionados ao Programa Conecta Oportunidades, realizei pesquisas nacionais e 
-      internacionais de modelos econômicos para auxiliar no desenvolvimento da economia criativa do 
-      município, e participei da elaboração do Programa Meu Primeiro Emprego. Durante o estágio 
-      recebi uma capacitação para ser Agente de Desenvolvimento Local, esta proporcionada pelo SEBRAE 
-      Caruaru. "
-    - university: "MOVIMENTO ACREDITO, Liderança Cívica"
+   - university: "MOVIMENTO ACREDITO, Liderança Cívica"
       year: "2018"
       degree: "Fui umas das 100 pessoas do Brasil inteiro a ser escolhida a partir de um criterioso 
       processo seletivo, como Liderança cívica, que é um Programa do Movimento Acredito para dar 
       apoio a novas candidaturas que querem transformar a política nas nossas cidades. Um movimento 
       de renovação política nacional e suprapartidário."
-    - university: "POLITIZE, Liderança"
-      year: "2019"
-      degree: "Uma organização da sociedade civil (ONG) com a missão de formar uma geração de cidadãos 
-      conscientes e comprometidos com a democracia. Enquanto embaixadora atuei por meio da educação 
-      política para pouco mais de 1000 adolescentes e jovens de Toritama, sempre com muito respeito 
-      pela pluralidade de ideias, crenças e posições."
     - university: "CONTROLADORIA GERAL DO MUNICIPIO DE TORITAMA-CGM, Estagiária"
       year: "2019"
       degree: "Tive a oportunidade de colaborar para o desenvolvimentos de políticas públicas 
@@ -167,6 +161,12 @@ education:
       Europeia no Brasil para o fortalecimento e mobilização dos órgãos de controle social e sociedade civil (2019) 
       para a construção do Plano de Ação Municipal para um governo ainda mais transparente e 
       participativo."
+    - university: "POLITIZE, Liderança"
+      year: "2019"
+      degree: "Uma organização da sociedade civil (ONG) com a missão de formar uma geração de cidadãos 
+      conscientes e comprometidos com a democracia. Enquanto embaixadora atuei por meio da educação 
+      política para pouco mais de 1000 adolescentes e jovens de Toritama, sempre com muito respeito 
+      pela pluralidade de ideias, crenças e posições."
     - university: "RENOVA BR, Aluna"
       year: "2019"
       degree: "O RenovaBR é a maior escola de democracia do Brasil. Selecionando pessoas comuns 
