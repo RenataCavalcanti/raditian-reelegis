@@ -238,50 +238,7 @@ client_and_work:
       alt: "Direitos das Mulheres"
 
   works:
-    - title: "Cidade Sustentável"
-      description: "Conheço as dificuldades de Toritama. Hoje a cidade sofre com problemas básicos 
-      de infraestrutura, saneamento, urbanização, pouca acessibilidade e áreas de lazer para nossa
-      população. Mas também conheço seu potencial de mudança e, por isso, acredito na melhoria
-      da infraestrutura da nossa cidade a partir de projetos que gerem mais inclusão, na urbanização
-      planejada, de modo que também permitam a construção de mais áreas verdes e de lazer."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Mande sua ideia sobre a nossa cidade de Toritama!"
-        URL: "https://docs.google.com/forms/d/e/1FAIpQLScJZ21ro-nYo2BPqYL9SMJ46dYYwa3JGVjhqoq2vYhV3gVpkg/viewform?usp=sf_link"
-      image:
-        x: "img/works/cidade-infra.jpg"
-        _2x: "img/works/cidade-infra.jpg"
-      is_even: true
-
-    - title: "Inovação Política"
-      description: "Luto por uma maior transparência, fiscalização e renovação na política. Acredito
-      que a juventude pode transformar a cidade participando mais ativamente das questões públicas e
-      isso pode ser alcançado através do diálogo com a população."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Mande sua ideia sobre a política de Toritama!"
-        URL: "https://docs.google.com/forms/d/e/1FAIpQLSfqymCxzwHbMcIl8Qn7VanlzVWg5nKojqA90bz4VA8NviiWng/viewform?usp=sf_link"
-      image:
-        x: "img/works/ativistas.jpg"
-        _2x: "img/works/ativistas.jpg"
-      is_even: false
-
-    - title: "Economia"
-      description: "Este é um setor forte na nossa cidade, mas pouco diversificado. Enfrentamos 
-      desafios diários na nossa economia. Acredito na força de inovação do nosso setor têxtil
-      e, por isso, vou lutar pela modernização do nosso comércio com um único objetivo: melhorar a
-      vida dos nossos cidadãos. Cuidar da economia local é cuidar dos empregos da nossa população."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Mande sua ideia sobre a economia de Toritama!"
-        URL: "https://docs.google.com/forms/d/e/1FAIpQLSdzXxUXnFjBIlS2Emm1vzx4t3zeAhhMAfGmgihymoonOB3n_A/viewform?usp=sf_link"
-      image:
-        x: "img/works/economia2.jpg"
-        _2x: "img/works/economia2.jpg"
-      is_even: true
-
-
-    - title: "Educação"
+    - title: "Educação de Qualidade"
       description: "Sempre pude aproveitar as oportunidades que recebi e, portanto, sei da importância
       da educação na vida de todos. Mas sei também que sou uma entre muitos. Em Toritama, ainda
       persistem os desafios no ensino e poucas pessoas têm a oportunidade de se qualificar. É
@@ -295,7 +252,7 @@ client_and_work:
       image:
         x: "img/works/educacao2.png"
         _2x: "img/works/educacao2.png"
-      is_even: false
+      is_even: true
 
     - title: "Direitos da Mulher"
       description: "Em Toritama, boa parte das casas são chefiadas por mulheres solteiras que têm em
@@ -309,6 +266,49 @@ client_and_work:
       image:
         x: "img/works/direitos_mulheres.jpg"
         _2x: "img/works/direitos_mulheres.jpg"
+      is_even: false
+
+    - title: "Mandato Participativo"
+      description: "Luto por uma maior transparência, fiscalização e renovação na política. Acredito
+      que a juventude pode transformar a cidade participando mais ativamente das questões públicas e
+      isso pode ser alcançado através do diálogo com a população."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Mande sua ideia sobre a política de Toritama!"
+        URL: "https://docs.google.com/forms/d/e/1FAIpQLSfqymCxzwHbMcIl8Qn7VanlzVWg5nKojqA90bz4VA8NviiWng/viewform?usp=sf_link"
+      image:
+        x: "img/works/ativistas.jpg"
+        _2x: "img/works/ativistas.jpg"
+      is_even: true
+
+
+    - title: "Cidade Sustentável"
+      description: "Conheço as dificuldades de Toritama. Hoje a cidade sofre com problemas básicos 
+      de infraestrutura, saneamento, urbanização, pouca acessibilidade e áreas de lazer para nossa
+      população. Mas também conheço seu potencial de mudança e, por isso, acredito na melhoria
+      da infraestrutura da nossa cidade a partir de projetos que gerem mais inclusão, na urbanização
+      planejada, de modo que também permitam a construção de mais áreas verdes e de lazer."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Mande sua ideia sobre a nossa cidade de Toritama!"
+        URL: "https://docs.google.com/forms/d/e/1FAIpQLScJZ21ro-nYo2BPqYL9SMJ46dYYwa3JGVjhqoq2vYhV3gVpkg/viewform?usp=sf_link"
+      image:
+        x: "img/works/cidade-infra.jpg"
+        _2x: "img/works/cidade-infra.jpg"
+      is_even: false
+
+    - title: "Economia Local"
+      description: "Este é um setor forte na nossa cidade, mas pouco diversificado. Enfrentamos 
+      desafios diários na nossa economia. Acredito na força de inovação do nosso setor têxtil
+      e, por isso, vou lutar pela modernização do nosso comércio com um único objetivo: melhorar a
+      vida dos nossos cidadãos. Cuidar da economia local é cuidar dos empregos da nossa população."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Mande sua ideia sobre a economia de Toritama!"
+        URL: "https://docs.google.com/forms/d/e/1FAIpQLSdzXxUXnFjBIlS2Emm1vzx4t3zeAhhMAfGmgihymoonOB3n_A/viewform?usp=sf_link"
+      image:
+        x: "img/works/economia2.jpg"
+        _2x: "img/works/economia2.jpg"
       is_even: true
 # testimonial
 testimonial:
