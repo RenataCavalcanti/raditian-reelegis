@@ -83,7 +83,7 @@ about3:
     </p>'
   image:
     x: "img/showcase/teste3.jpg"
-    _2x: "img/showcase/teste.jpg"
+    _2x: "img/showcase/teste3.jpg"
 about4:
   enable: true
   title: "algo aqui de novo tentando"
