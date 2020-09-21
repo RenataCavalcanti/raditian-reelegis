@@ -55,6 +55,11 @@ contentDir = "content/conteudo"
   URL = "https://docs.google.com/forms/d/e/1FAIpQLSebjTuR0ItmfHyN_GlnznxwXC3xKIqSVHIfTmHiVP7646H3PA/viewform"
   weight = 7
 
+  [[menu.header]]
+  name = "Apoiadores"
+  URL = "#apoiadores"
+  weight = 9
+
 
   [[menu.footer]]
   name = "Biografia"

@@ -344,9 +344,11 @@ testimonial:
         x: "img/testimonials/raul.jpg"
         _2x: "img/testimonials/raul.jpg"
 
-    - name: "Acredito"
-      position: "Movimento político"
-      content: ""
+    - name: "Felipe Oriá"
+      position: "RENOVA BR"
+      content: "Se uma mulher, jovem e preparada não é o símbolo de mudança para Toritama, 
+      o que séria? Convido todos a conhecer Carol e participarem junto com ela da construção de uma 
+      política diferente para a cidade"
       image:
         x: "img/testimonials/acredito.jpg"
         _2x: "img/testimonials/acredito.jpg"
