@@ -126,13 +126,6 @@ education:
   enable: true
   title: "Trajetória"
   items:
-    - university: "Relações Internacionais - ASCES/UNITA"
-      year: "2014"
-      degree: "Durante a graduação participei de projetos de extensão relacionados ao terceiro setor, voluntariado 
-      internacional, direito internacional dos refugiados e comércio exterior, além de três simulações, 
-      estas proporcionadas pela ASCES-UNITA, sobre o Conselho de Segurança das Nações Unidas no que tange as crises 
-      no Oriente Médio, a União Europeia e a crise dos refugiados, e a Conferência Quadro das Nações Unidas sobre 
-      Mudanças Climáticas com foco na COP 21 sobre mudanças climáticas."
     - university: "MOVIMENTO CHOICE, Embaixadora e Mentora"
       year: "2017"
       degree: "O Programa de Embaixadores Choice 2.0, visa impulsionar o potencial de transformação da 
@@ -153,13 +146,6 @@ education:
       município, e participei da elaboração do Programa Meu Primeiro Emprego. Durante o estágio 
       recebi uma capacitação para ser Agente de Desenvolvimento Local, esta proporcionada pelo SEBRAE 
       Caruaru. "
-    - university: "GESTÃO CIDADÃ, Representante da Sociedade Civil"
-      year: "2018"
-      degree: "O Projeto Transparência e Participação Social na Gestão Pública Local é uma iniciativa 
-      da AMUPE - Associação Municipalista de Pernambuco, com apoio financeiro da Delegação da União 
-      Europeia no Brasil. Onde atuei como representante da sociedade civil e participei de formações 
-      gestão pública democrática e participativa."
-    - university: "POLITIZE, Liderança"
       year: "2019"
       degree: "Uma organização da sociedade civil (ONG) com a missão de formar uma geração de cidadãos 
       conscientes e comprometidos com a democracia. Enquanto embaixadora atuei por meio da educação 
@@ -169,10 +155,12 @@ education:
       year: "2019"
       degree: "Tive a oportunidade de colaborar para o desenvolvimentos de políticas públicas 
       relacionadas a participação e transparência no governo local, através de um projeto chamado 
-      gestão cidadã fortalecendo e mobilizando os órgãos de controle social e sociedade civil (2019) 
+      Gestão Cidadã, iniciativa 
+      da AMUPE - Associação Municipalista de Pernambuco, com apoio financeiro da Delegação da União 
+      Europeia no Brasil para o fortalecimento e mobilização dos órgãos de controle social e sociedade civil (2019) 
       para a construção do Plano de Ação Municipal para um governo ainda mais transparente e 
       participativo."
-    - university: "RENOVABR, Aluna"
+    - university: "RENOVA BR, Aluna"
       year: "2019"
       degree: "O RenovaBR é a maior escola de democracia do Brasil. Selecionando pessoas comuns 
       dispostas a se qualificar se preparado para renovar. E sou uma das 1500 pessoas selecionadas 
@@ -187,7 +175,7 @@ education:
       do Brasil inteiro para o Programa Políticas do Amanhã idealizado pela Deputada Federal 
       Tabata Amaral para participar do OYW em Londres – Reino Unido. Fui a primeira pernambucana a 
       participar desse evento"
-    - university: "INSTITUTO DE CORESPONSABILIDADE PELA EDUCAÇÃO-CE, Jovem Protagonista"
+    - university: "INSTITUTO DE CORESPONSABILIDADE PELA EDUCAÇÃO-ICE, Jovem Protagonista"
       year: "2020"
       degree: "O ICE, é uma entidade sem fins econômicos, criado em 2003 com o objetivo de 
       contribuir para a melhoria da qualidade da Educação Básica Pública, através da aplicação de 
