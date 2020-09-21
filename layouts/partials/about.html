@@ -32,11 +32,19 @@
   <div class="container rad-fade-down">
       <div class="rad-showcase__bg">
         <img
-          class="lozad img-responsive image-left-overflow"
+          class="lozad img-responsive"
           src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
           data-src="{{ .Site.Data.homepage.about2.image.x | absURL }}"
           data-srcset="{{ .Site.Data.homepage.about2.image.x | absURL }} 1x, {{ .Site.Data.homepage.about2.image._2x | absURL }} 2x"
           alt="Profile Picture"
+        />
+      </div>
+      <div class="rad-showcase__bg rad-showcase__bg--mobile">
+        <img
+          class="lozad img-responsive"
+          src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+          data-src="{{ .Site.Data.homepage.about2.imageMobile.x | absURL }}"
+          alt="{{ .Site.Data.homepage.about2.imageMobile.alt }}"
         />
       </div>
       <div class="col-12 col-md-6 my-auto my-auto">    
@@ -46,7 +54,7 @@
       desenvolvendo negócios de impacto social. Também participei da imersão de Embaixadores Politize, 
       que me possibilitou levar educação política para quase 1000 jovens e adultos em 2019 em Toritama. 
       Estou como líder municipal do <a href= https://movimentoacredito.org >Movimento Acredito</a>. 
-      Sou fundadora do Modelo das Nações Unidas em Toritama para estudantes do ensino médio, projeto social 
+      Sou fundadora do Modelo das Nações Unidas em Toritama para estudantes o ensino médio, projeto social 
       proporciona a adolescentes uma experiência de aprendizado sobre liderança, trabalho em equipe e cultural 
       sobre diversos países.</p>
     <p class="lead">Também tive a grande oportunidade de ser uma das duas mulheres no Brasil inteiro a 
@@ -62,6 +70,7 @@
           <p class="lead"></p>
         </div>  
       </div>
+    </div>
   </div>
   <div class="container rad-fade-down">
     <div class="row d-flex flex-column-reverse flex-md-row">

@@ -328,17 +328,21 @@ testimonial:
   items:
     - name: "Tabata Amaral"
       position: "Deputada Estadual, PDT/SP"
-      content: ""
+      content: "Ver uma mulher jovem, periférica, preparada e corajosa como a Carol ocupando o seu lugar na política me 
+      dá muita alegria e esperança. Conte comigo, Carol! Tenho muito orgulho e admiração pelo seu trabalho e luta. 
+      Seguimos juntas pelo direito de todas as crianças de sonharem sem limites!"
       image:
         x: "img/testimonials/tabata.jpg"
         _2x: "img/testimonials/tabata.jpg"
 
-    - name: "RENOVA BR"
+    - name: "Raul Henry"
       position: "Movimento político"
-      content: ""
+      content: "Eu tenho muita fé, esperança e confiança em sua candidatura, Carol.  
+      Você tem feito uma pré-campanha belíssima. É um prazer acompanhar sua trajetória. Uma jovem batalhadora e com uma 
+      história de vida muito bonita, que quer entrar na política e dar sua contribuição ao povo de Toritama."
       image:
-        x: "img/testimonials/rbr.jpg"
-        _2x: "img/testimonials/rbr.jpg"
+        x: "img/testimonials/raul.jpg"
+        _2x: "img/testimonials/raul.jpg"
 
     - name: "Acredito"
       position: "Movimento político"
