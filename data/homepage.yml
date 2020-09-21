@@ -41,7 +41,7 @@ about:
   enable: true
   title: "Quem sou eu?"
   content: '<p class="lead"> Nasci em 1996, sou filha de dois costureiros, Seu Edmilson e Dona Juciana. 
-  Sou a mais velha de três irmãos e cresci no bairro do Antão, em Toritama, município Pernambuco. 
+  Sou a mais velha de três irmãos e cresci no bairro do Antão, em Toritama, município pernambucano. 
   Meu interesse em entrar para  politica aconteceu quando eu tinha seis anos e vi algumas crianças 
   brincando próximo a um lixão, perguntei a minha mãe quem poderia resolver aquele problema e ela me 
   respondeu que seriam os políticos. Foi ali que soube o que queria ser quando crescesse. Uma política! 
@@ -51,8 +51,8 @@ about:
   povo.
     </p>'
   image:
-    x: "img/showcase/formada1.PNG"
-    _2x: "img/showcase/formada1.PNG"
+    x: "img/showcase/teste1.jpg"
+    _2x: "img/showcase/teste1.jpg"
 about2:
   enable: true
   title: "algo aqui"
@@ -68,8 +68,8 @@ about2:
   sobre diversos países.
 </p>'
   image:
-    x: "img/showcase/infancia3.png"
-    _2x: "img/showcase/infancia3.png"
+    x: "img/showcase/teste2.jpg"
+    _2x: "img/showcase/teste2.jpg"
 about3:
   enable: true
   title: "algo aqui de novo tentando"
@@ -82,8 +82,8 @@ about3:
    como eu, entrem na política e causem transformações nesse país. 
     </p>'
   image:
-    x: "img/showcase/london5.png"
-    _2x: "img/showcase/london5.png"
+    x: "img/showcase/teste3.jpg"
+    _2x: "img/showcase/teste.jpg"
 about4:
   enable: true
   title: "algo aqui de novo tentando"
@@ -249,7 +249,7 @@ client_and_work:
       alt: "Direitos das Mulheres"
 
   works:
-    - title: "Cidade e Infraestrutura"
+    - title: "Cidade Sustentável"
       description: "Conheço as dificuldades de Toritama. Hoje a cidade sofre com problemas básicos 
       de infraestrutura, saneamento, urbanização, pouca acessibilidade e áreas de lazer para nossa
       população. Mas também conheço seu potencial de mudança e, por isso, pretendo atuar na melhoria
