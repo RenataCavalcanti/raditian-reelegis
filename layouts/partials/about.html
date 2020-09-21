@@ -37,7 +37,15 @@
           data-src="{{ .Site.Data.homepage.about2.image.x | absURL }}"
           data-srcset="{{ .Site.Data.homepage.about2.image.x | absURL }} 1x, {{ .Site.Data.homepage.about2.image._2x | absURL }} 2x"
           alt="Profile Picture"
-        />
+        />  
+    <div class="rad-showcase__bg rad-showcase__bg--mobile">
+        <img
+            class="lozad img-responsive"
+            src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+            data-src="{{ .Site.Data.homepage.showcase.imageMobile.x | absURL }}"
+            alt="{{ .Site.Data.homepage.showcase.imageMobile.alt }}"
+          />
+        </div>
       </div>
       <div class="col-12 col-md-6 my-auto my-auto">    
         <p class="lead">
@@ -94,14 +102,6 @@
           as nossas vidas! </p>
       </div>
     </div>
-  </div>
-  <div class="rad-showcase__bg rad-showcase__bg--mobile">
-    <img
-      class="lozad img-responsive"
-      src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
-      data-src="{{ .Site.Data.homepage.showcase.imageMobile.x | absURL }}"
-      alt="{{ .Site.Data.homepage.showcase.imageMobile.alt }}"
-    />
   </div>
 </section>
 {{ end }}
