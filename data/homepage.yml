@@ -341,6 +341,23 @@ testimonial:
       image:
         x: "img/testimonials/felipe.jpeg"
         _2x: "img/testimonials/felipe.jpeg"
+    
+    - name: "Mailson Renan"
+      position: "Servidor Público, Toritama/PE"
+      content: "Acredito em você, acredito na forma que está fazendo política, tenho certeza que você vai conseguir sair 
+      vitoriosa desse pleito, e faça a diferença naquela Câmara, pois ela está precisando muito de pessoas como você."
+      image:
+        x: "img/testimonials/mailson.jpeg"
+        _2x: "img/testimonials/mailson.jpeg"
+
+    - name: "Socorro Pereira"
+      position: "Vice-Diretora do EREM Protázio,Toritama/PE"
+      content: "Ver uma menina da periferia, aluna da escola pública se tornar em uma jovem mulher protagonista de sua própria 
+      história e empoderada a ponto de levar o nome de Toritama e da Educação pública a Europa é vê que o jovem pode sonhar, 
+      pois ele pode romper barreiras  basta alguém o ensinar  a voar e nesse embarque vamos seguir Carol Gonçalves."
+      image: 
+        x: "img/testimonials/socorro.jpeg"
+        _2x: "img/testimonials/socorro.jpeg"
 
 #voluntariado
 voluntariado: 
