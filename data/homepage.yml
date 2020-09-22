@@ -358,6 +358,14 @@ testimonial:
       image:
         x: "img/testimonials/mailson.jpeg"
         _2x: "img/testimonials/mailson.jpeg"
+    
+    - name: "José Clemente"
+      position: "Costureiro"
+      content: "A primeira vez que ouvi você falando sobre política, decidi meu voto. Vi que você, Carol, tem boas propostas 
+      para nossa cidade. Conte comigo sempre. Toritama precisa de pessoas assim como você, que fazem a diferença."
+      image:
+        x: "img/testimonials/clemente.jpeg"
+        _2x: "img/testimonials/clemente.jpeg"
 
 #voluntariado
 voluntariado: 
