@@ -324,6 +324,15 @@ testimonial:
         x: "img/testimonials/tabata.jpg"
         _2x: "img/testimonials/tabata.jpg"
 
+    - name: "Socorro Pereira"
+      position: "Vice-Diretora do EREM Protázio,Toritama/PE"
+      content: "Ver uma menina da periferia, aluna da escola pública se tornar uma jovem mulher protagonista de sua própria 
+      história e empoderada a ponto de levar o nome de Toritama e da Educação pública à Europa é ver que o jovem pode sonhar, 
+      pois ele pode romper barreiras, basta alguém ensinar a voar. Nesse embarque vamos seguir Carol Gonçalves."
+      image: 
+        x: "img/testimonials/socorro.jpeg"
+        _2x: "img/testimonials/socorro.jpeg"
+
     - name: "Raul Henry"
       position: "Deputado Federal, MDB/PE"
       content: "Eu tenho muita fé, esperança e confiança em sua candidatura, Carol.  
@@ -349,15 +358,6 @@ testimonial:
       image:
         x: "img/testimonials/mailson.jpeg"
         _2x: "img/testimonials/mailson.jpeg"
-
-    - name: "Socorro Pereira"
-      position: "Vice-Diretora do EREM Protázio,Toritama/PE"
-      content: "Ver uma menina da periferia, aluna da escola pública se tornar em uma jovem mulher protagonista de sua própria 
-      história e empoderada a ponto de levar o nome de Toritama e da Educação pública a Europa é vê que o jovem pode sonhar, 
-      pois ele pode romper barreiras  basta alguém o ensinar  a voar e nesse embarque vamos seguir Carol Gonçalves."
-      image: 
-        x: "img/testimonials/socorro.jpeg"
-        _2x: "img/testimonials/socorro.jpeg"
 
 #voluntariado
 voluntariado: 
