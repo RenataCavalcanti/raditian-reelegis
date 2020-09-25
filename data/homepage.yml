@@ -367,6 +367,26 @@ testimonial:
         x: "img/testimonials/clemente.jpeg"
         _2x: "img/testimonials/clemente.jpeg"
 
+    - name: "João Paulo Rocha"
+      position: "Estudante de Engenharia Civil (UFPE)"
+      content: "Acredito na importância de ter pessoas como você na política, conheço suas lutas e sua belíssima trajetória. 
+      Acredito no voto consciente, sincero e representativo. Acredito que a luta deve ser para resolução dos problemas coletivos. 
+      Acredito na sua capacidade. Acredito em você, Carol. Conte comigo!"
+      image:
+        x: "img/testimonials/joao.jpeg"
+        _2x: "img/testimonials/joao.jpeg"
+
+    - name: "Romero Filho"
+      position: "Vice-Prefeito de Toritama/Pe"
+      content: "Carol é um exemplo de garra e determinação. É um orgulho para nossa cidade ver uma mulher mesmo tão jovem 
+      conseguir esses feitos. Vindo de uma familia humilde e estudando em escola pública, conseguiu concluir seu curso superior, 
+      e ainda sendo contemplada com um curso fora do país. E agora se coloca à disposição do nosso povo, tentando uma vaga na nossa 
+      Câmara dos Vereadores. Trazendo novas idéias e mostrando a força da mulher. Torço para que ela consiga suas pretensões. 
+      Com certeza a cidade só tem a ganhar. Boa sorte, Carol!"
+      image:
+        x: "img/testimonials/romero.jpg"
+        _2x: "img/testimonials/romero.jpg"
+
 #voluntariado
 voluntariado: 
   enable: true
