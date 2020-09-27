@@ -6,7 +6,7 @@ homepage:
 showcase:
   enable: true
   title: "Olá, sou Carol Gonçalves."
-  subtitle: "Pré-Candidata a Vereadora em Toritama/PE!"
+  subtitle: "Candidata a Vereadora em Toritama/PE!"
   description: "Sou uma jovem toritamense com muito orgulho. Tenho 24 anos, 
   filha de Dona Juciana e Seu Edmilson, ambos costureiros e irmã de Lucas e Tiago. 
   Cresci no bairro do Antão e sou formada em Relações Internacionais. Vem me conhecer! "
@@ -29,7 +29,7 @@ showcase:
     - icon: "twitter"
       URL: "https://twitter.com/Carol_Toritama"
     - icon: "instagram"
-      URL: "https://www.instagram.com/carolgoncalves.pe/"
+      URL: "https://www.instagram.com/carol.15015/"
 
     - icon: "facebook"
       URL: "https://www.facebook.com/carolayne.kelley"
