@@ -55,6 +55,11 @@ contentDir = "content/conteudo"
   URL = "#apoiadores"
   weight = 6
 
+  [[menu.header]]
+  name = "Contribua nesta campanha!"
+  URL = "https://votolegal.com.br/carolgoncalves"
+  weight = 8
+
 
   [[menu.footer]]
   name = "Biografia"
@@ -81,6 +86,11 @@ contentDir = "content/conteudo"
   name = "Voluntariado"
   URL = "https://docs.google.com/forms/d/e/1FAIpQLSc6k5Y-ey9lel5of5O1L-XWtyfhvA490oCoUdevXpc90Qz_6Q/viewform"
   weight = 7
+
+  [[menu.footer]]
+  name = "Contribua nesta campanha!"
+  URL = "https://votolegal.com.br/carolgoncalves"
+  weight = 8
 
 
 
