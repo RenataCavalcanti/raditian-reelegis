@@ -60,6 +60,11 @@ contentDir = "content/conteudo"
   URL = "https://votolegal.com.br/carolgoncalves"
   weight = 8
 
+  [[menu.header]]
+  name = "Propostas"
+  URL = "https://drive.google.com/file/d/1aRlt8omhkfxPL2eIlemjy5yfhZQgNUgk/view"
+  weight = 9
+
 
   [[menu.footer]]
   name = "Biografia"
@@ -91,6 +96,11 @@ contentDir = "content/conteudo"
   name = "Contribua nesta campanha!"
   URL = "https://votolegal.com.br/carolgoncalves"
   weight = 8
+
+  [[menu.footer]]
+  name = "Propostas"
+  URL="https://drive.google.com/file/d/1aRlt8omhkfxPL2eIlemjy5yfhZQgNUgk/view"
+  weight = 9
 
 
 
