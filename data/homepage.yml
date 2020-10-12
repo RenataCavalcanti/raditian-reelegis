@@ -241,8 +241,8 @@ client_and_work:
       que vão crescer e movimentar a economia."
       button:
         icon: "icon-arrow-right"
-        btnText: "Mande sua ideia sobre a educação de Toritama!"
-        URL: "https://docs.google.com/forms/d/e/1FAIpQLScoQ49C17ctotKA6T4baXJMBATZTKgMGmCsRCQBD9tcX9JuAQ/viewform?usp=sf_link"
+        btnText: "Conheça nossas propostas!"
+        URL: "https://drive.google.com/file/d/1aRlt8omhkfxPL2eIlemjy5yfhZQgNUgk/view"
       image:
         x: "img/works/educacao2.png"
         _2x: "img/works/educacao2.png"
@@ -255,8 +255,8 @@ client_and_work:
       específicos para nossas cidadãs."
       button:
         icon: "icon-arrow-right"
-        btnText: "Mande sua ideia sobre os direitos das mulheres de Toritama!"
-        URL: "https://docs.google.com/forms/d/e/1FAIpQLScbpie3ZpDALyhSo48JMAGuujV-uAQSYCGxDQIhIFLbfJYAcw/viewform?usp=sf_link"
+        btnText: "Conheça nossas propostas!"
+        URL: "https://drive.google.com/file/d/1aRlt8omhkfxPL2eIlemjy5yfhZQgNUgk/view"
       image:
         x: "img/works/direitos_mulheres.jpg"
         _2x: "img/works/direitos_mulheres.jpg"
@@ -268,8 +268,8 @@ client_and_work:
       isso pode ser alcançado através do diálogo com a população."
       button:
         icon: "icon-arrow-right"
-        btnText: "Mande sua ideia sobre a política de Toritama!"
-        URL: "https://docs.google.com/forms/d/e/1FAIpQLSfqymCxzwHbMcIl8Qn7VanlzVWg5nKojqA90bz4VA8NviiWng/viewform?usp=sf_link"
+        btnText: "Conheça nossas propostas!"
+        URL: "https://drive.google.com/file/d/1aRlt8omhkfxPL2eIlemjy5yfhZQgNUgk/view"
       image:
         x: "img/works/ativistas.jpg"
         _2x: "img/works/ativistas.jpg"
@@ -284,8 +284,8 @@ client_and_work:
       planejada, de modo que também permitam a construção de mais áreas verdes e de lazer."
       button:
         icon: "icon-arrow-right"
-        btnText: "Mande sua ideia sobre a nossa cidade de Toritama!"
-        URL: "https://docs.google.com/forms/d/e/1FAIpQLScJZ21ro-nYo2BPqYL9SMJ46dYYwa3JGVjhqoq2vYhV3gVpkg/viewform?usp=sf_link"
+        btnText: "Conheça nossas propostas!"
+        URL: "https://drive.google.com/file/d/1aRlt8omhkfxPL2eIlemjy5yfhZQgNUgk/view"
       image:
         x: "img/works/cidade-infra.jpg"
         _2x: "img/works/cidade-infra.jpg"
@@ -298,8 +298,8 @@ client_and_work:
       vida dos nossos cidadãos. Cuidar da economia local é cuidar dos empregos da nossa população."
       button:
         icon: "icon-arrow-right"
-        btnText: "Mande sua ideia sobre a economia de Toritama!"
-        URL: "https://docs.google.com/forms/d/e/1FAIpQLSdzXxUXnFjBIlS2Emm1vzx4t3zeAhhMAfGmgihymoonOB3n_A/viewform?usp=sf_link"
+        btnText: "Conheça nossas propostas!"
+        URL: "https://drive.google.com/file/d/1aRlt8omhkfxPL2eIlemjy5yfhZQgNUgk/view"
       image:
         x: "img/works/economia2.jpg"
         _2x: "img/works/economia2.jpg"
