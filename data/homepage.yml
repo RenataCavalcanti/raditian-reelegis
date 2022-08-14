@@ -1,394 +1,215 @@
 # homepage
 homepage:
   head:
-    title: "Início"
+    title: "reeLegis"
 # showcase
 showcase:
   enable: true
-  title: "Olá, sou Carol Gonçalves."
-  subtitle: "Vereadora de Toritama/PE!"
-  description: "Sou uma jovem toritamense com muito orgulho. Tenho 24 anos, 
-  filha de Dona Juciana e Seu Edmilson, ambos costureiros e irmã de Lucas e Tiago. 
-  Cresci no bairro do Antão e sou formada em Relações Internacionais. Vem me conhecer! "
+  title: "Olá! Somos o reeLegis"
+  subtitle: ""
+  description: "No dia 2 de outubro de 2022 acontecerá o primeiro turno das eleições.
+  Apesar da atenção que dedicamos para as disputas presidenciais e do Governo do Estado,
+   neste dia também elegeremos aqueles que ocuparam o poder Legislativo. Ou seja, as mulheres e
+   os homens que vão ajudar o/a presidente e os/as governadores a produzir as leis, distribuir os
+   recursos orçamentários pelo território nacional e fiscalizar os membros do poder Executivo.
+   Pensando nisso, apresentamos a plataforma reeLegis que lhe possibilita pesquisar sobre
+  o que os parlamentares e os partidos políticos apresentaram em matéria legislativa entre 2019 a 2022,
+   para, assim, você descobrir quais temas foram mais enfatizados durante o período
+    e analisar o que fizeram parlamentares que estão buscando a reeleição para o cargo de deputado federal."
   image:
-    alt: "Carol Goncalves"
-    x: "img/showcase/carol-bio2.png"
-    _2x: "img/showcase/carol-bio2.png"
+    alt: "reeLegis"
+    x: "img/showcase/logo-inicio.png"
+    _2x: "img/showcase/logo-inicio.png"
   imageMobile:
-    alt: "Carol Goncalves"
-    x: "img/showcase/carol-bio2.png"
+    alt: "reeLegis"
+    x: "img/showcase/logo-inicio.png"
+
   button:
-        icon: "icon-arrow-right"
-        btnText: "Vem falar comigo no WhatsApp!"
-        URL: "https://wa.me/message/F5D3WAEHOWHLF1"
+    icon: "icon-arrow-right"
+    btnText: "Clique aqui para acessar nossa Plataforma"
+    URL: "https://reelegis-reelegis-plataforma-reelegis-app-vpxy3k.streamlitapp.com/"
 
-
-    
-  
-  socialLinks:
-    - icon: "twitter"
-      URL: "https://twitter.com/Carol_Toritama"
-    - icon: "instagram"
-      URL: "https://www.instagram.com/carolgoncalves.pe/"
-
-    - icon: "facebook"
-      URL: "https://www.facebook.com/carolayne.kelley"
-    - icon: "youtube"
-      URL: "https://www.youtube.com/channel/UC9zNs9DSznxy2CbQLz-E65g"
+#  socialLinks:
+#    - icon: "linkedin"
+#      URL: "https://www.linkedin.com/company/radity/"
+#
+#    - icon: "github"
+#      URL: "https://github.com/radity"
+#
+#    - icon: "twitter"
+#      URL: "https://twitter.com/radity"
+#
+#    - icon: "dribbble"
+#      URL: "https://dribbble.com/radity"
+#
+#    - icon: "behance"
+#      URL: "https://www.behance.net/radity-digital"
+#
+#    - icon: "youtube"
+#      URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
+#
+#    - icon: "instagram"
+#      URL: "https://www.instagram.com/teamradity/"
+#
+#    - icon: "facebook"
+#      URL: "https://www.facebook.com/raditycom/"
+#
+#    - icon: "codepen"
+#      URL: "#"
+#
+#    - icon: "yelp"
+#      URL: "https://www.yelp.com/"
 
 # about
 about:
   enable: true
-  title: "Quem sou eu?"
-  content: '<p class="lead"> Nasci em 1996, sou filha de dois costureiros, Seu Edmilson e Dona Juciana. 
-  Sou a mais velha de três irmãos e cresci no bairro do Antão, em Toritama, município pernambucano. 
-  Meu interesse em entrar para  politica aconteceu quando eu tinha seis anos e vi algumas crianças 
-  brincando próximo a um lixão, perguntei a minha mãe quem poderia resolver aquele problema e ela me 
-  respondeu que seriam os políticos. Foi ali que soube o que queria ser quando crescesse. Uma política! 
-  Mas, quando cresci fui logo percebendo que ser uma mulher na política não seria tão fácil assim. 
-  O Brasil costuma reeleger sempre os mesmos indivíduos, alguns deles passam anos e anos em um cargo, 
-  fazendo com que não haja representatividade de pessoas comuns ocupando cargos políticos e dando voz ao 
-  povo.
-    </p>'
-  image:
-    x: "img/showcase/teste1.jpg"
-    _2x: "img/showcase/teste1.jpg"
-about2:
-  enable: true
-  title: "algo aqui"
-  content: '<p class="lead"> Apesar de muitas dificuldades, consegui me formar 
-  em Relações Internacionais na ASCES-UNITA por meio de uma bolsa de Financiamento Estudantil, o FIES. 
-  Com isso, consegui acesso a muitas oportunidades que me proporcionaram um grande conhecimento sobre 
-  política. Me tornei  embaixadora e mentora do <a href= https://www.movimentochoice.com >Movimento Choice</a>, 
-  desenvolvendo negócios de impacto social. Também participei da imersão de Embaixadores Politize, 
-  que me possibilitou levar educação política para quase 1000 jovens e adultos em 2019 em Toritama. 
-  Estou como líder municipal do <a href= https://movimentoacredito.org >Movimento Acredito</a>. 
-  Sou fundadora do Modelo das Nações Unidas em Toritama para estudantes o ensino médio, projeto social 
-  proporciona a adolescentes uma experiência de aprendizado sobre liderança, trabalho em equipe e cultural 
-  sobre diversos países.
-</p>'
-  image:
-    x: "img/showcase/teste2.jpg"
-    _2x: "img/showcase/teste2.jpg"
-about3:
-  enable: true
-  title: "algo aqui de novo tentando"
-  content: '<p class="lead"> Também tive a grande oportunidade de ser uma das selecionadas a 
-  participar do Programa Políticas do Amanhã idealizado pela Deputada Federal Tabata Amaral, 
-  para uma visita ao Congresso em Brasília e também participar da maior conferência mundial de jovens 
-  líderes, o One Young World, em Londres. Sou fundadora da MUNTO, organização que simula modelos da ONU 
-  para estudantes da rede pública. Recentemente me formei como aluna
-   do <a href=https://renovabr.org> RenovaBR</a>, que tem como missão fazer com que pessoas comuns, 
-   como eu, entrem na política e causem transformações nesse país. 
-    </p>'
-  image:
-    x: "img/showcase/teste3.jpg"
-    _2x: "img/showcase/teste3.jpg"
-about4:
-  enable: true
-  title: "algo aqui de novo tentando"
-  content: '<p class="lead">A política vem fazendo parte da minha vida desde o início e, 
-  através dos esforços da minha família, pude participar de muitas oportunidades que me foram 
-  proporcionadas. Mas ao mesmo tempo sei que muitos jovens não conseguem ter esse acesso. 
-  Por isso, luto para que eu não seja a única entre muitos. Luto para que todos possam ter 
-  as mesmas oportunidades que tive até hoje.
-    </p>'
-  image:
-    x: "img/showcase/mun2.png"
-    _2x: "img/showcase/mun2.png"
-about6:
-  enable: true
-  title: "algo aqui de novo tentando"
-  content: '<p class="lead">Acredito na mudança e renovação da política. 
-  É preciso incentivar a participação de todos na busca por melhores condições para que tenhamos 
-  um futuro promissor. Tenho muita energia, motivação e ideias inovadoras para alcançar este objetivo. 
-  Sei das dificuldades da nossa cidade e do nosso país, por isso sei da urgência da população por 
-  políticas que transformem as nossas vidas.
-    </p>'
-  image:
-    x: "img/showcase/carol-alunos.jpg"
-    _2x: "img/showcase/carol-alunos.jpg"
-about5:
-  enable: true
-  title: "algo aqui de novo tentando"
-  content: '<p class="lead">Conheço as dificuldades que os jovens enfrentam porque essa é a minha 
-  realidade. A minha motivação é poder proporcionar os mesmos esforços doso meus pais para centenas 
-  de pessoas que se encontram nesta situação. Sei da importância da educação na vida de todos. 
-  Ela abre janelas e portas para um novo mundo! Um mundo cheio de oportunidades que podem melhorar 
-  as nossas vidas! 
-    </p>'
-  image:
-    x: "img/showcase/carol-alunos.jpg"
-    _2x: "img/showcase/carol-alunos.jpg"
-    
-# trajetória
-education:
-  enable: true
-  title: "Trajetória"
-  items:
-    - university: "MOVIMENTO CHOICE, Embaixadora e Mentora"
-      year: "2017"
-      degree: "O Programa de Embaixadores Choice 2.0, visa impulsionar o potencial de transformação da 
-      juventude, em uma jornada de desenvolvimento de habilidades e de soluções inovadoras para os 
-      Objetivos de Desenvolvimento Sustentável (ODS), tudo baseado em um método de aprendizagem de 
-      prototipação de soluções. "
-    - university: "NÚCLEO CIVITAS, Membro"
-      year: "2018"
-      degree: "Visa a formação de pessoas comprometidas com o bem comum, com o exercício da 
-      fraternidade como categoria política. Realizei diversas atividades,
-      como a formação dos conselheiros de segurança cidadã de Caruaru, no qual estive como 
-      facilitadora da oficina. "
-    - university: "SEDEEC, Estagiária"
-      year: "2018"
-      degree: "Tive a oportunidade de auxiliar na Coordenação de Economia Criativa, a qual participei 
-      dos projetos relacionados ao Programa Conecta Oportunidades, e também da elaboração do Programa
-       Meu Primeiro Emprego. Durante o estágio 
-      recebi uma capacitação para ser Agente de Desenvolvimento Local, esta proporcionada pelo SEBRAE 
-      Caruaru. "
-    - university: "MOVIMENTO ACREDITO, Liderança Cívica"
-      year: "2018"
-      degree: "Movimento 
-      de renovação política nacional e suprapartidária. Fui umas das 100 pessoas do Brasil inteiro a ser escolhida a partir de um criterioso 
-      processo seletivo, como Liderança cívica, que é um Programa do Movimento Acredito para dar 
-      apoio a novas candidaturas que querem transformar a política nas nossas cidades."
-    - university: "POLITIZE, Liderança"
-      year: "2019"
-      degree: "Organização da Sociedade Civil (ONG) com a missão de formar uma geração de cidadãos 
-      conscientes e comprometidos com a democracia. Enquanto embaixadora, atuei por meio da educação 
-      política para pouco mais de 1000 adolescentes e jovens de Toritama, sempre com muito respeito 
-      pela pluralidade de ideias, crenças e posições."
-    - university: "CONTROLADORIA GERAL DO MUNICIPIO DE TORITAMA-CGM, Estagiária"
-      year: "2019"
-      degree: "Pude colaborar para o desenvolvimento do Plano de Ação Municipal sobre participação e 
-      transparência no governo local, através de uma parceria com o projeto Gestão Cidadã, 
-      uma iniciativa da AMUPE - Associação Municipalista de Pernambuco, com apoio da União Europeia 
-      para o fortalecimento e mobilização dos órgãos de controle social e sociedade civil."
-    - university: "RENOVA BR, Aluna"
-      year: "2019"
-      degree: "O RenovaBR é a maior escola de democracia do Brasil. Sou uma das 1500 pessoas selecionadas 
-      de um processo seletivo que contou com mais de 35 mil brasileiros. Também participei do 
-      Renovar o Brasil 2019 com a reforma da fachada do EREM Protázio, e em 2020 com a 
-      parceria com a SIMULAB para doação de EPIs para o Hospital Público de Toritama."
-    - university: "ONE YOUNG WORLD (OYW), Líder"
-      year: "2019"
-      degree: "Fui uma das duas mulheres pré-candidatas às eleições de 2020 selecionadas, 
-      do Brasil inteiro para o Programa Políticas do Amanhã idealizado pela Deputada Federal 
-      Tabata Amaral para participar do OYW em Londres – Reino Unido. Fui a primeira pernambucana a 
-      participar deste evento"
-    - university: "VAMOS JUNTAS, Líder"
-      year: "2020"
-      degree: "É um Movimento suprapartidário e nacional para eleger mais mulheres em 2020. 
-      Com mentoria, formação política, uma rede de apoio e desenvolvimento pessoal, 
-      para lutarmos por mais representatividade. Tenho a honra de ter como mentora a Margarete Coelho, 
-      Deputada Federal e primeira mulher vice-governadora pelo Piauí!  "
+  title: "Sobre"
+  content: 'O <a href= https://reelegis-reelegis-plataforma-reelegis-app-vpxy3k.streamlitapp.com/ >reeLegis</a> é uma plataforma que lhe permite pesquisar sobre quais foram os assuntos mais apresentados na Câmara dos Deputados entre 2019 e 2022, possibilitando, desse modo, conhecer o trabalho do Deputado ou Deputada Federal que você pretende votar no dia 02 de outubro de 2022.
+
+Você irá utilizar nossa Versão Beta 🐠 . Isso indica que o projeto está em fase de crescimento e ao longo do período eleitoral traremos novas atualizações.
+
+Pensamos em três modos, levando em consideração as possibilidades de como você pode votar na urna, pensamos em três modos de você encontrar o/a parlamentar que tem mais afinidade com os assuntos que você considera mais importante. Em nossa <a href= https://reelegis-reelegis-plataforma-reelegis-app-vpxy3k.streamlitapp.com/ >Plataforma Interativa</a>, você poderá:
 
 
+</p>
+<p class="lead"> 1. Escolher o parlamentar de modo individual no seu distrito eleitoral (o estado em que você vota) - voto no parlamentar individual; </p>
 
-# doacoes / trajetoria
-experience:
-  enable: true
-  title: "Doações"
-  description: "Voce pode doar aqui"
-  button:
-    btnText: "Doações"
-    URL: "https://www.vakinha.com.br"
+<p class="lead"> 2. Escolher o partido em que você possui uma maior preferência - voto na legenda partidária;</p>
 
+<p class="lead"> 3. Não sabe em quem votar? Se você ainda não decidiu seu voto, você pode escolher um parlamentar ou partido que tenha maior afinidade temática com você.</p>
 
-  items:
-    - title: "que inferno"
-      company: "Luto por políticas que possam ajudar nossos cidadãos de Toritama"
-      duration: ""
+<p class="lead">Esperamos que a plataforma possa lhe ajudar a fazer um voto mais consciente!</p>
 
-# bandeiras
+<p class="lead">E em breve teremos mais atualizações!</p>'
+
+  image:
+    x: "img/who-am-i/sobre-pic.png"
+    _2x: "img/who-am-i/user-picture.png"
+
+# education
+#education:
+#  enable: true
+#  title: "Education"
+#  items:
+#    - university: "University of Waterloo"
+#      year: "2012-2017"
+#      degree: "Bachelor of Applied Science (BASc), Electrical Engineering"
+
+#    - university: "Sir John A Macdonald CI"
+#      year: "2009-2012"
+#      degree: "High School Diploma, Sciences, Math, Computer & Business Studies"
+
+# experience
+#experience:
+#  enable: true
+#  title: "Experience"
+#  description: "Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
+#  button:
+#    icon: "icon-linkedin-fill"
+#    btnText: "Linkedin"
+#    URL: "https://www.linkedin.com/company/radity/"
+#  button2:
+#    icon: "icon-profile-fill"
+#    btnText: "Download My Resume"
+#    URL: "#"
+
+#  items:
+#    - title: "Sr. Front-End Developer"
+#      company: "Radity"
+#      duration: "Feb 2011 - Sep 2019"
+#
+#    - title: "Sr. Front-End Developer"
+#      company: "Textic"
+#      duration: "Apr 2010 - Jan 2011"
+
+#    - title: "Jr. Front-End Developer"
+#      company: "Cyberse"
+#      duration: "Jun 2009 - Mar 2010"
+
+# Client & Work
 client_and_work:
-  title: "Bandeiras"
+  title: "Quem somos"
   enable: true
 
   clients:
     - logo:
-        x: "img/clients/cidade_infra.png"
-        _2x: "img/clients/cidade_infra.png"
-      alt: "Cidade e Infraestrutura"
-      
+        x: "img/clients/labcpcex.png"
+        _2x: "img/clients/labcpcexx.png"
+      alt: "labcpcex"
 
     - logo:
-        x: "img/clients/politics.png"
-        _2x: "img/clients/politics.png"
-      alt: "Inovação Política"
+        x: "img/clients/dcp.png"
+        _2x: "img/clients/dcp.png"
+      alt: "UFPE"
 
     - logo:
-        x: "img/clients/economia.png"
-        _2x: "img/clients/economia.png"
-      alt: "Economia"
+        x: "img/clients/ufpe.png"
+        _2x: "img/clients/ufpe.png"
+      alt: "UFPE"
 
-    - logo:
-        x: "img/clients/educacao.png"
-        _2x: "img/clients/educacao.png"
-      alt: "Educação"
-
-    - logo:
-        x: "img/clients/mulher.png"
-        _2x: "img/clients/mulher.png"
-      alt: "Direitos das Mulheres"
 
   works:
-    - title: "Educação de Qualidade"
-      description: "Sempre pude aproveitar as oportunidades que recebi e, portanto, sei da importância
-      da educação na vida de todos. Mas sei também que sou uma entre muitos. Em Toritama, ainda
-      persistem os desafios no ensino e poucas pessoas têm a oportunidade de se qualificar. É
-      necessário uma melhoria no ensino, com foco na primeira infância e incentivo ao futuro dos
-      nossos estudantes. Uma educação de qualidade pode oferecer mais oportunidades às novas gerações
-      que vão crescer e movimentar a economia."
+    - title: "Renata Cavalcanti"
+      description: "Bacharel, Mestre e doutoranda em Ciência Política pela Universidade
+      Federal de Pernambuco (UFPE). Gosto bastante de realizar Análise de Dados na linguagem R e
+      sei um pouco de Python. Atualmente faço parte do
+      Laboratório de Ciência Política Computacional e Experimental (@cpcex_lab) e do Grupo de Estudos sobre
+      Comportamento Político e Opinião Pública (UFPE).
+      Minhas áreas de interesse são Análise de Dados, Texto como Dado, Programação,
+      Comportamento Político e Opinião Pública."
       button:
         icon: "icon-arrow-right"
-        btnText: "Conheça nossas propostas!"
-        URL: "https://drive.google.com/file/d/1aRlt8omhkfxPL2eIlemjy5yfhZQgNUgk/view"
+        btnText: "Conheça um pouco mais sobre mim!"
+        URL: "https://cpcex-lab.rbind.io/author/renata-cavalcanti/"
       image:
-        x: "img/works/educacao2.png"
-        _2x: "img/works/educacao2.png"
+        x: "img/works/renata.png"
+        _2x: "img/works/renata.png"
       is_even: true
 
-    - title: "Direitos da Mulher"
-      description: "Em Toritama, boa parte das casas são chefiadas por mulheres solteiras que têm em
-      média 2 filhos. As mulheres movimentam nossa economia, mas ainda enfrentam sérios problemas e,
-      por isso, merecem uma atenção especial. Apesar disso, na nossa cidade não existem projetos
-      específicos para nossas cidadãs."
+    - title: "Bhreno Vieira"
+      description: "Bacharel, Mestre e doutorando em Ciência Política
+      pela Universidade Federal de Pernambuco (UFPE). Minha pesquisa se concentra
+      amplamente em estudos legislativos. Membro do Grupo de Instituições,
+      Política e Governo (UFPE) e do Laboratório de Ciência Política
+      Computacional e Experimental. Também sou bastante interessado em
+      Texto como Dado e Pesquisas Qualitativas. "
       button:
         icon: "icon-arrow-right"
-        btnText: "Conheça nossas propostas!"
-        URL: "https://drive.google.com/file/d/1aRlt8omhkfxPL2eIlemjy5yfhZQgNUgk/view"
+        btnText: "Conheça um pouco mais sobre mim!"
+        URL: "https://cpcex-lab.rbind.io/author/bhreno-vieira/"
       image:
-        x: "img/works/direitos_mulheres.jpg"
-        _2x: "img/works/direitos_mulheres.jpg"
-      is_even: false
-
-    - title: "Mandato Participativo"
-      description: "Luto por uma maior transparência, fiscalização e renovação na política. Acredito
-      que a juventude pode transformar a cidade participando mais ativamente das questões públicas e
-      isso pode ser alcançado através do diálogo com a população."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Conheça nossas propostas!"
-        URL: "https://drive.google.com/file/d/1aRlt8omhkfxPL2eIlemjy5yfhZQgNUgk/view"
-      image:
-        x: "img/works/ativistas.jpg"
-        _2x: "img/works/ativistas.jpg"
+        x: "img/works/bhreno.png"
+        _2x: "img/works/bhreno"
       is_even: true
 
 
-    - title: "Cidade Sustentável"
-      description: "Conheço as dificuldades de Toritama. Hoje a cidade sofre com problemas básicos 
-      de infraestrutura, saneamento, urbanização, pouca acessibilidade e áreas de lazer para nossa
-      população. Mas também conheço seu potencial de mudança e, por isso, acredito na melhoria
-      da infraestrutura da nossa cidade a partir de projetos que gerem mais inclusão, na urbanização
-      planejada, de modo que também permitam a construção de mais áreas verdes e de lazer."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Conheça nossas propostas!"
-        URL: "https://drive.google.com/file/d/1aRlt8omhkfxPL2eIlemjy5yfhZQgNUgk/view"
-      image:
-        x: "img/works/cidade-infra.jpg"
-        _2x: "img/works/cidade-infra.jpg"
-      is_even: false
-
-    - title: "Economia Local"
-      description: "Este é um setor forte na nossa cidade, mas pouco diversificado. Enfrentamos 
-      desafios diários na nossa economia. Acredito na força de inovação do nosso setor têxtil
-      e, por isso, vou lutar pela modernização do nosso comércio com um único objetivo: melhorar a
-      vida dos nossos cidadãos. Cuidar da economia local é cuidar dos empregos da nossa população."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Conheça nossas propostas!"
-        URL: "https://drive.google.com/file/d/1aRlt8omhkfxPL2eIlemjy5yfhZQgNUgk/view"
-      image:
-        x: "img/works/economia2.jpg"
-        _2x: "img/works/economia2.jpg"
-      is_even: true
 # testimonial
 testimonial:
   enable: true
-  title: "Apoiadores"
+  title: "Metodologia"
   items:
-    - name: "Tábata Amaral"
-      position: "Deputada Federal, PDT/SP"
-      content: "Ver uma mulher jovem, periférica, preparada e corajosa como a Carol ocupando o seu lugar na política me 
-      dá muita alegria e esperança. Conte comigo, Carol! Tenho muito orgulho e admiração pelo seu trabalho e luta. 
-      Seguimos juntas pelo direito de todas as crianças de sonharem sem limites!"
+    - name: "Daniel Jordan"
+      position: "Phonet, CEO"
+      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
       image:
-        x: "img/testimonials/tabata.jpg"
-        _2x: "img/testimonials/tabata.jpg"
+        x: "img/testimonials/daniel-jordan.jpg"
+        _2x: "img/testimonials/daniel-jordan@2x.jpg"
 
-    - name: "Socorro Pereira"
-      position: "Vice-Diretora do EREM Protázio,Toritama/PE"
-      content: "Ver uma menina da periferia, aluna da escola pública se tornar uma jovem mulher protagonista de sua própria 
-      história e empoderada a ponto de levar o nome de Toritama e da Educação pública à Europa é ver que o jovem pode sonhar, 
-      pois ele pode romper barreiras, basta alguém ensinar a voar. Nesse embarque vamos seguir Carol Gonçalves."
-      image: 
-        x: "img/testimonials/socorro.jpeg"
-        _2x: "img/testimonials/socorro.jpeg"
+    - name: "Jonathan Peters"
+      position: "Textic, CEO"
+      content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
+      image:
+        x: "img/testimonials/jonathan-peters.jpg"
+        _2x: "img/testimonials/jonathan-peters@2x.jpg"
 
-    - name: "Raul Henry"
-      position: "Deputado Federal, MDB/PE"
-      content: "Eu tenho muita fé, esperança e confiança em sua candidatura, Carol.  
-      Você tem feito uma pré-campanha belíssima. É um prazer acompanhar sua trajetória. Uma jovem batalhadora e com uma 
-      história de vida muito bonita, que quer entrar na política e dar sua contribuição ao povo de Toritama."
+    - name: "Antonio Willis"
+      position: "Cyberse, CEO"
+      content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
       image:
-        x: "img/testimonials/raul4.jpg"
-        _2x: "img/testimonials/raul4.jpg"
-
-    - name: "Felipe Oriá"
-      position: "Cofundador do Movimento Acredito"
-      content: "Se uma mulher, jovem e preparada não é o símbolo de mudança para Toritama, 
-      o que seria? Convido todos a conhecer Carol e participarem junto com ela da construção de uma 
-      política diferente para a cidade."
-      image:
-        x: "img/testimonials/felipe.jpeg"
-        _2x: "img/testimonials/felipe.jpeg"
-    
-    - name: "Mailson Renan"
-      position: "Servidor Público, Toritama/PE"
-      content: "Acredito em você, acredito na forma que está fazendo política, tenho certeza que você vai conseguir sair 
-      vitoriosa desse pleito, e faça a diferença naquela Câmara, pois ela está precisando muito de pessoas como você."
-      image:
-        x: "img/testimonials/mailson.jpeg"
-        _2x: "img/testimonials/mailson.jpeg"
-    
-    - name: "José Clemente"
-      position: "Costureiro, Toritama/PE"
-      content: "A primeira vez que ouvi você falando sobre política, decidi meu voto. Vi que você, Carol, tem boas propostas 
-      para nossa cidade. Conte comigo sempre. Toritama precisa de pessoas assim como você, que fazem a diferença."
-      image:
-        x: "img/testimonials/clemente.jpeg"
-        _2x: "img/testimonials/clemente.jpeg"
-
-    - name: "João Paulo Rocha"
-      position: "Estudante de Engenharia Civil (UFPE)"
-      content: "Acredito na importância de ter pessoas como você na política, conheço suas lutas e sua belíssima trajetória. 
-      Acredito no voto consciente, sincero e representativo. Acredito que a luta deve ser para resolução dos problemas coletivos. 
-      Acredito na sua capacidade. Acredito em você, Carol. Conte comigo!"
-      image:
-        x: "img/testimonials/joao.jpeg"
-        _2x: "img/testimonials/joao.jpeg"
-
-    - name: "Romero Filho"
-      position: "Vice-Prefeito de Toritama/Pe"
-      content: "Carol é um exemplo de garra e determinação. É um orgulho para nossa cidade ver uma mulher mesmo tão jovem 
-      conseguir esses feitos. Vindo de uma familia humilde e estudando em escola pública, conseguiu concluir seu curso superior, 
-      e ainda sendo contemplada com um curso fora do país. E agora se coloca à disposição do nosso povo, tentando uma vaga na nossa 
-      Câmara dos Vereadores. Trazendo novas idéias e mostrando a força da mulher. Torço para que ela consiga suas pretensões. 
-      Com certeza a cidade só tem a ganhar. Boa sorte, Carol!"
-      image:
-        x: "img/testimonials/romero2.jpg"
-        _2x: "img/testimonials/romero2.jpg"
-
-#voluntariado
-voluntariado: 
-  enable: true
-  title: "Voluntarie-se na minha campanha!"
-  content: "clicando aqui etc"
+        x: "img/testimonials/antonio-willis.jpg"
+        _2x: "img/testimonials/antonio-willis@2x.jpg"
 
 # contact
-
 contact:
   enable: true
   title: "Contato"
@@ -397,16 +218,18 @@ contact:
     action: "#"
     full_name: "Nome"
     email: "E-mail"
-    message: "Digite sua mensagem"
-  phone:
-    title: "Telefone"
-    number: "(81) 99858-9401"
-  email: 
-    title: "Whatsapp"
-    email: '<a href=https://wa.me/message/F5D3WAEHOWHLF1 > whatsapp</a>'
+    message: "Escreva sua mensagem aqui"
   email:
     title: "Email"
-    email: '<a href="mailto:carolgoncalves.contato@gmail.com">carolgoncalves.contato@gmail.com</a>'
+    email: '<a href="mailto:cpcex.lab@ufpe.br">cpcex.lab@ufpe.br</a>'
   button:
     icon: "icon-mail-fill"
     btnText: "Enviar mensagem"
+
+# newsletter
+#newsletter:
+#  enable: true
+#  title: "Newsletter subscription"
+#  success_message: "Successfully subscribed"
+#  error_message: "Error while subscribing."
+#  note: "We'll never share your email with anyone else."
