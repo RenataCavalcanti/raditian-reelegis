@@ -1,5 +1,5 @@
 {{ if .Site.Data.homepage.about.enable }}
-<section class="section rad-animation-group pb-0" id="biografia">
+<section class="section rad-animation-group pb-0" id="sobre">
   <div class="container rad-fade-down">
     <div class="row d-flex flex-column-reverse flex-md-row">
       <div class="about__profile-picture col-12 col-md-6">
@@ -8,109 +8,24 @@
           src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
           data-src="{{ .Site.Data.homepage.about.image.x | absURL }}"
           data-srcset="{{ .Site.Data.homepage.about.image.x | absURL }} 1x, {{ .Site.Data.homepage.about.image._2x | absURL }} 2x"
-          alt="Profile Picture" style="float: right;"
+          alt="Profile Picture"
         />
       </div>
       <div class="col-12 col-md-6 my-auto my-auto">
         <h2>{{ .Site.Data.homepage.about.title }}</h2>
         <p class="lead">
-          Nasci em 1996, sou filha de dois costureiros, Seu Edmilson e Dona Juciana. 
-          Sou a mais velha de três irmãos e cresci no bairro do Antão, em Toritama, município pernambucano. 
-          Meu interesse em entrar para  politica aconteceu quando eu tinha 6 anos de idade e vi algumas crianças 
-          brincando próximo a um esgoto a céu aberto e ao redor de muito lixo, perguntei a minha mãe quem poderia resolver aquele problema e ela me 
-          respondeu que seriam os políticos. Foi ali que soube o que queria ser quando crescesse. Uma política! 
-          Mas, quando cresci fui logo percebendo que ser uma mulher na política não seria tão fácil assim. </p>
-        <p class="lead"> O Brasil costuma reeleger sempre os mesmos indivíduos, alguns deles passam anos e anos em um cargo, 
-          fazendo com que não haja representatividade de pessoas comuns ocupando cargos políticos e dando voz ao 
-          povo.</p>
-        <p class="lead">Apesar de muitas dificuldades, consegui me formar 
-          em Relações Internacionais na ASCES-UNITA por meio de uma bolsa de Financiamento Estudantil, o FIES. </p>
+          {{ .Site.Data.homepage.about.content | safeHTML }}
         </p>
+        <a
+          href="{{ .Site.Data.homepage.about.button.URL | absURL }}"
+          target="_blank"
+          class="btn btn-primary"
+        >
+          <i class="{{ .Site.Data.homepage.about.button.icon }}"></i>
+          {{ .Site.Data.homepage.about.button.btnText }}
+        </a>
       </div>
     </div>
-  </div>
-  <div class="container rad-fade-down">
-    <div class="rad-showcase__bg rad-showcase__bg--mobile">
-      <img
-        class="lozad img-responsive"
-        src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
-        data-src="{{ .Site.Data.homepage.about2.image.x | absURL }}"
-        data-srcset="{{ .Site.Data.homepage.about2.image.x | absURL }} 1x, {{.Site.Data.homepage.about2.imageMobile.x | absURL }} 2x"
-        alt="Profile Picture"
-      />  
-    </div>
-  <div class="container rad-fade-down">
-      <div class="rad-showcase__bg">
-        <img
-          class="lozad img-responsive"
-          src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
-          data-src="{{ .Site.Data.homepage.about2.image.x | absURL }}"
-          data-srcset="{{ .Site.Data.homepage.about2.image.x | absURL }} 1x, {{ .Site.Data.homepage.about2.imageMobile.x | absURL }} 2x"
-          alt="Profile Picture"
-        />
-      </div>
-      <div class="col-12 col-md-6 my-auto my-auto">    
-        <p class="lead">
-        Com isso, consegui acesso a muitas oportunidades que me proporcionaram um grande conhecimento sobre 
-      política. Me tornei  embaixadora e mentora do <a href= https://www.movimentochoice.com >Movimento Choice</a>, 
-      desenvolvendo negócios de impacto social. Também participei da imersão de Embaixadores Politize, 
-      que me possibilitou levar educação política para quase 1000 jovens e adultos em 2019 em Toritama. 
-      Estou como líder municipal do <a href= https://movimentoacredito.org >Movimento Acredito</a>. 
-      Sou fundadora do Modelo das Nações Unidas em Toritama para estudantes o ensino médio, projeto social 
-      proporciona a adolescentes uma experiência de aprendizado sobre liderança, trabalho em equipe e cultural 
-      sobre diversos países.</p>
-    <p class="lead">Também tive a grande oportunidade de ser uma das duas mulheres no Brasil inteiro a 
-      participar do Programa Políticas do Amanhã idealizado pela Deputada Federal Tábata Amaral, 
-      para uma visita ao Congresso em Brasília e também participar da maior conferência mundial de jovens 
-      líderes, o One Young World, em Londres. Recentemente me formei como aluna
-       do <a href=https://renovabr.org> RenovaBR</a>, que tem como missão fazer com que pessoas comuns, 
-       como eu, entrem na política e causem transformações nesse país. </p>
-    <p class=" rad-animation-group rad-fade-down"> <font size="+2"><i>Luto para que eu não seja a única entre muitos. Luto para que todos possam ter 
-        as mesmas oportunidades que tive até hoje!</i></font></p>
-    <div class="col-12 col-md-6 my-auto my-auto">    
-          <p class="lead"></p>
-        </div>  
-      </div>
-    </div>
-  </div>
-  <div class="container rad-fade-down">
-    <div class="row d-flex flex-column-reverse flex-md-row">
-      <div class="about__profile-picture col-12 col-md-6">
-        <img
-          class="lozad img-responsive image-left-overflow"
-          src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
-          data-src="{{ .Site.Data.homepage.about3.image.x | absURL }}"
-          data-srcset="{{ .Site.Data.homepage.about3.image.x | absURL }} 1x, {{ .Site.Data.homepage.about3.image._2x | absURL }} 2x"
-          alt="Profile Picture" style="float: right;"
-        />
-      </div>
-      <div class="col-12 col-md-6 my-auto my-auto">
-        <p class="lead">A política vem fazendo parte da minha vida desde o início e, 
-          através dos esforços da minha família, professores e amigos queridos, pude participar de muitas oportunidades que me foram 
-          proporcionadas. Mas ao mesmo tempo sei que muitos jovens não conseguem ter esse acesso. 
-          <b> Por isso, luto para que eu não seja a única entre muitos. Luto para que todos possam ter 
-          as mesmas oportunidades que tive até hoje!
-        </p>
-        <p class="lead">Acredito na mudança e renovação da política. 
-          É preciso incentivar a participação de todos na busca por melhores condições para que tenhamos 
-          um futuro promissor. Tenho muita energia, motivação e ideias inovadoras para alcançar este objetivo. 
-          Sei das dificuldades da nossa cidade e do nosso país, por isso sei da urgência da população por 
-          políticas que transformem as nossas vidas.</p>
-        <p class=" lead">Conheço as dificuldades que os jovens enfrentam porque essa é a minha 
-          realidade. A minha motivação é poder proporcionar mais oportunidades para centenas 
-          de pessoas que se encontram nesta situação. Sei da importância da educação na vida de todos. 
-          Ela abre janelas e portas para um novo mundo! Um mundo cheio de oportunidades que podem melhorar 
-          as nossas vidas! </p>
-      </div>
-    </div>
-  </div>
-  <div class="rad-showcase__bg rad-showcase__bg--mobile">
-    <img
-      class="lozad img-responsive"
-      src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
-      data-src="{{ .Site.Data.homepage.about2.imageMobile.x | absURL }}"
-      alt="{{ .Site.Data.homepage.about2.imageMobile.alt }}"
-    />
   </div>
 </section>
 {{ end }}

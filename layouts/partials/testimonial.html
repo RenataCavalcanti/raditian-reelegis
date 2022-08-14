@@ -1,28 +1,48 @@
 {{ if .Site.Data.homepage.testimonial.enable }}
-<section id="apoiadores" class="section rad-animation-group section--border-bottom">
+<section id="metodologia" class="section rad-animation-group section--border-bottom">
     <div class="container">
         <h2 class="rad-fade-down">{{ .Site.Data.homepage.testimonial.title }}</h2>
-        <div class="row row--padded mb-0 rad-fade-down">
-            {{ range .Site.Data.homepage.testimonial.items }}
-            <div class="col-12 col-md-4 mb-5 mb-md-0 testimonial">
-                <i class="icon-quote"></i>
-                <p>
-                    {{ .content }}
-                </p>
-                <div class="testimonial__author" id="apoiadores">
-                    <img class="lozad testimonial__author-image"
-                         src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
-                         data-src="{{ .image.x | absURL }}"
-                         data-srcset="{{ .image.x | absURL }} 1x, {{ .image._2x | absURL }} 2x"
-                         alt="{{ .name }}"/>
-                    <div class="testimonial__author-info">
-                        <h4>{{ .name }}</h4>
-                        <span>{{ .position }}</span>
-                    </div>
-                </div>
-            </div>
-            {{ end }}
-        </div>
+        <p> Para chegar aos resultados obtidos nesta
+          <a href=  https://reelegis-reelegis-plataforma-reelegis-app-vpxy3k.streamlitapp.com/ > Plataforma</a>,
+           ou seja, a tradução do conteúdo das ementas em áreas temáticas, utilizamos uma técnica de aprendizado
+           de máquina. Através desta metodologia é permitido organizar, compreender e descobrir quais
+           são os temas presentes em um conjunto de documentos, através das palavras nesse contido e assim
+           classificar cada documento no tópico que é mais apropriado. </p>
+
+          <p> Uma forma de compreender melhor essa metodologia seria supondo que você
+            tenha um conjunto de livros que nunca leu (os documentos) e apenas as informações
+            presentes no sumário e no título (as palavras), e com isso deseja organizá-lo na sua estante
+            por categorias (tópicos) que você deseja criar. Ao notar que palavras como “dragão”, “bruxos”, “magia”,
+             “elfos”, “caminhantes brancos” indicam que os livros pertencem a categoria de literatura fantástica,
+              já "cebola", "tomate", "macarrão" e "vinho" formam o grupo de livros sobre culinária,
+              enquanto palavras como “democracia”, “nações”, “políticos” ou “coalizão” enquadram os
+              livros na literatura sobre política. </p>
+
+              <p>No nosso caso, utilizamos as “palavras-chaves” presentes em cada proposta apresentada
+                pelos deputados e deputadas federais entre 2019 e 18 de julho de 2022 (56ª Legislatura)
+                 para descobrir os temas que os legisladores brasileiros enfatizaram neste período.
+                 As propostas e demais informações sobre os parlamentares foram retiradas do site da
+                  Câmara de Deputados. O processamento foi feito através da linguagem <b>R</b>
+                  e utilizamos a modelagem do algoritmo <b>Structural Topic Model (STM)</b> para descobrir
+                  quais são os temas mais enfatizados nesses documentos. </p>
+
+                  <p>O nosso modelo analisou 29.155 iniciativas legislativas,
+                    que se dividem entre Projetos de Lei, Propostas de Emenda à Constituição e
+                    Projetos de Lei Complementar. A escolha dessas matérias ocorreu por conta desses
+                    documentos resultarem nas políticas públicas do Estado brasileiro.
+                    Obtivemos uma probabilidade geral de <b>79% de acerto</b> da iniciativa
+                    estar correspondente ao tema encontrado.
+
+                  <p>Qualquer dúvida sobre a metodologia da plataforma, entre
+                    em contato conosco 📨 .</p>
+
+                    <p>Também sugerimos a pesquisa e leitura desses materiais:
+
+                      <p><a href= http://www.structuraltopicmodel.com/> Página Oficial do STM.</a></p>
+                      <p><a href= https://www.anpocs.com/index.php/bib-pt/bib-86/11215-o-texto-como-dado-desafios-e-oportunidades-para-as-ciencias-sociais/file> Texto como Dado</a></p>
+                      <p><a href= "https://www.scielo.br/j/rbcsoc/a/gM7mG35jtmMBr45CNkqZKYq/?format=pdf&lang=pt"> Quais políticas importam? Usando ênfases na agenda legislativa para mensurar saliência.</a></p>
+
+
     </div>
 </section>
 {{ end }}
