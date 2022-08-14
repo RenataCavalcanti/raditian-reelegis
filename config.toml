@@ -1,7 +1,6 @@
 baseURL = ""
 languageCode = "pt-br"
 theme = "raditian-free-hugo-theme"
-contentDir = "content/conteudo"
 
 # Plugins
 [params.plugins]
@@ -23,81 +22,78 @@ contentDir = "content/conteudo"
   URL = "js/library/fontfaceobserver.js"
 
 
+
+
 # navigation
 [menu]
 
-
   [[menu.header]]
-  name = "Biografia"
-  URL = "#biografia"
+  name = "Sobre"
+  URL = "#sobre"
   weight = 2
 
   [[menu.header]]
-  name = "Trajetória"
-  URL = "#trajetoria"
+  name = "Quem somos"
+  URL = "#quem-somos"
   weight = 3
 
   [[menu.header]]
-  name = "Bandeiras"
-  URL = "#bandeiras"
-  weight = 5
-
-
-  [[menu.header]]
-  name = "Apoiadores"
-  URL = "#apoiadores"
+  name = "Contato"
+  URL = "#contato"
   weight = 6
 
   [[menu.header]]
-  name = "Plano de Mandato"
-  URL = "https://drive.google.com/file/d/1aRlt8omhkfxPL2eIlemjy5yfhZQgNUgk/view"
-  weight = 9
+  name = "Acesso à Plataforma"
+  URL = "https://reelegis-reelegis-plataforma-reelegis-app-vpxy3k.streamlitapp.com/"
+  weight = 5
+
+  [[menu.header]]
+  name = "Metodologia"
+  URL = "#metodologia"
+  weight = 4
 
 
   [[menu.footer]]
-  name = "Biografia"
-  URL = "#Biografia"
+  name = "Sobre"
+  URL = "#sobre"
   weight = 2
 
   [[menu.footer]]
-  name = "Trajetória"
-  URL = "#trajetoria"
+  name = "Quem somos"
+  URL = "#quem-somos"
   weight = 3
 
   [[menu.footer]]
-  name = "Bandeiras"
-  URL = "#bandeiras"
+  name = "Contato"
+  URL = "#contato"
+  weight = 6
+
+  [[menu.footer]]
+  name = "Acesso à Plataforma"
+  URL = "https://reelegis-reelegis-plataforma-reelegis-app-vpxy3k.streamlitapp.com/"
   weight = 5
 
   [[menu.footer]]
-  name = "Apoiadores"
-  URL = "#apoiadores"
-  weight = 6
-
-
-  [[menu.footer]]
-  name = "Plano de Mandato"
-  URL="https://drive.google.com/file/d/1aRlt8omhkfxPL2eIlemjy5yfhZQgNUgk/view"
-  weight = 9
-
-
+  name = "Metodologia"
+  URL = "#metodologia"
+  weight = 4
 
 
 [params]
-  custom_css = ["css/custom.css"]
 
   sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
 
   googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
 
-
+  favicon = "img/general/foot-logo.png"
 
   [params.logo]
-    text1 = "Carol"
-    text2 = "Gonçalves"
+    text1 = "reeLegis"
+    text2 = ""
 
   [params.footer]
-      copyright = "© Carol Gonçalves"
+      copyright = "© reeLegis"
       [params.footer.radity_logo]
-        x = "img/general/cgbranco.png"
-        _2x = "img/general/cgbranco.png"
+        x = "img/general/foot-logo-branco.png"
+        _2x = "img/general/foot-logo-branco.png"
+        alt = "reeLegis"
