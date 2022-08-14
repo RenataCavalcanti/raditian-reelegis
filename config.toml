@@ -96,6 +96,6 @@ title = "reeLegis"
   [params.footer]
       copyright = "© reeLegis"
       [params.footer.radity_logo]
-        x = "img/general/foot-logo-branco.png"
-        _2x = "img/general/foot-logo-branco.png"
+        x = "img/general/logo-branco-foot.png"
+        _2x = "img/general/logo-branco-foot.png"
         alt = "reeLegis"
