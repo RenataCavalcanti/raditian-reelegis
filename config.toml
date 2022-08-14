@@ -2,6 +2,8 @@ baseURL = ""
 languageCode = "pt-br"
 theme = "raditian-free-hugo-theme"
 
+title = "reeLegis"
+
 # Plugins
 [params.plugins]
 
