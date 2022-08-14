@@ -84,7 +84,7 @@ Pensamos em três modos, levando em consideração as possibilidades de como voc
 
   image:
     x: "img/who-am-i/sobre-pic.png"
-    _2x: "img/who-am-i/user-picture.png"
+    _2x: "img/who-am-i/sobre-pic.png"
 
 # education
 #education:
@@ -134,7 +134,7 @@ client_and_work:
   clients:
     - logo:
         x: "img/clients/labcpcex.png"
-        _2x: "img/clients/labcpcexx.png"
+        _2x: "img/clients/labcpcex.png"
       alt: "labcpcex"
 
     - logo:
@@ -179,7 +179,7 @@ client_and_work:
         URL: "https://cpcex-lab.rbind.io/author/bhreno-vieira/"
       image:
         x: "img/works/bhreno.png"
-        _2x: "img/works/bhreno"
+        _2x: "img/works/bhreno.png"
       is_even: true
 
 
