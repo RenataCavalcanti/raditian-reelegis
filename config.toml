@@ -2,8 +2,6 @@ baseURL = ""
 languageCode = "pt-br"
 theme = "raditian-free-hugo-theme"
 
-title = "reeLegis"
-
 # Plugins
 [params.plugins]
 
@@ -42,7 +40,7 @@ title = "reeLegis"
   [[menu.header]]
   name = "Contato"
   URL = "#contato"
-  weight = 6
+  weight = 7
 
   [[menu.header]]
   name = "Acesso à Plataforma"
@@ -53,6 +51,11 @@ title = "reeLegis"
   name = "Metodologia"
   URL = "#metodologia"
   weight = 4
+
+  [[menu.header]]
+  name = "Apoio"
+  URL = "#apoio"
+  weight = 6
 
 
   [[menu.footer]]
@@ -68,7 +71,7 @@ title = "reeLegis"
   [[menu.footer]]
   name = "Contato"
   URL = "#contato"
-  weight = 6
+  weight = 7
 
   [[menu.footer]]
   name = "Acesso à Plataforma"
@@ -79,6 +82,11 @@ title = "reeLegis"
   name = "Metodologia"
   URL = "#metodologia"
   weight = 4
+
+  [[menu.footer]]
+  name = "Apoio"
+  URL = "#apoio"
+  weight = 6
 
 
 [params]
@@ -96,6 +104,6 @@ title = "reeLegis"
   [params.footer]
       copyright = "© reeLegis"
       [params.footer.radity_logo]
-        x = "img/general/logo-branco-foot.png"
-        _2x = "img/general/logo-branco-foot.png"
+        x = "img/general/foot-logo-branco.png"
+        _2x = "img/general/foot-logo-branco.png"
         alt = "reeLegis"
