@@ -2,6 +2,9 @@ baseURL = ""
 languageCode = "pt-br"
 theme = "raditian-free-hugo-theme"
 
+# The "title" of your website
+title = "reeLegis"
+
 # Plugins
 [params.plugins]
 
