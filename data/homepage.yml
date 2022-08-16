@@ -153,8 +153,8 @@ client_and_work:
         btnText: "Conheça um pouco mais sobre mim!"
         URL: "https://cpcex-lab.rbind.io/author/renata-cavalcanti/"
       image:
-        x: "img/works/renata.png"
-        _2x: "img/works/renata.png"
+        x: "img/works/renata-2.png"
+        _2x: "img/works/renata-2.png"
       is_even: true
 
     - title: "Bhreno Vieira"
@@ -169,8 +169,8 @@ client_and_work:
         btnText: "Conheça um pouco mais sobre mim!"
         URL: "https://cpcex-lab.rbind.io/author/bhreno-vieira/"
       image:
-        x: "img/works/bhreno.png"
-        _2x: "img/works/bhreno.png"
+        x: "img/works/bhreno-2.jpg"
+        _2x: "img/works/bhreno-2.jpg"
       is_even: true
 
 
