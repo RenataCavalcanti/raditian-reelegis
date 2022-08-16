@@ -7,22 +7,19 @@ showcase:
   enable: true
   title: "Olá! Somos o reeLegis"
   subtitle: ""
-  description: "No dia 2 de outubro de 2022 acontecerá o primeiro turno das eleições.
-  Apesar da atenção que dedicamos para as disputas presidenciais e do Governo do Estado,
-   neste dia também elegeremos aqueles que ocuparam o poder Legislativo. Ou seja, as mulheres e
-   os homens que vão ajudar o/a presidente e os/as governadores a produzir as leis, distribuir os
-   recursos orçamentários pelo território nacional e fiscalizar os membros do poder Executivo.
-   Pensando nisso, apresentamos a plataforma reeLegis que lhe possibilita pesquisar sobre
-  o que os parlamentares e os partidos políticos apresentaram em matéria legislativa entre 2019 a 2022,
-   para, assim, você descobrir quais temas foram mais enfatizados durante o período
-    e analisar o que fizeram parlamentares que estão buscando a reeleição para o cargo de deputado federal."
+  description: "No dia 2 de outubro de 2022 teremos novas eleições.
+  É uma oportunidade valiosa para renovar ou premiar a atual composição do Congresso Nacional.
+  Pensando nisso, apresentamos a <a href= https://reelegis-reelegis-plataforma-reelegis-app-vpxy3k.streamlitapp.com/ >Plataforma reeLegis!</a>
+  Com o uso de aprendizagem computacional, ela permite analisar e
+  comparar a atuação de todos os Deputados e Deputadas Federais que buscam
+   a reeleição. E aí? Vai reeleger ou renovar?"
   image:
     alt: "reeLegis"
-    x: "img/showcase/logo-inicio.png"
-    _2x: "img/showcase/logo-inicio.png"
+    x: "img/showcase/logo-inicio4.png"
+    _2x: "img/showcase/logo-inicio4.png"
   imageMobile:
     alt: "reeLegis"
-    x: "img/showcase/logo-inicio.png"
+    x: "img/showcase/logo-inicio4.png"
 
   button:
     icon: "icon-arrow-right"
@@ -64,11 +61,22 @@ showcase:
 about:
   enable: true
   title: "Sobre"
-  content: 'O <a href= https://reelegis-reelegis-plataforma-reelegis-app-vpxy3k.streamlitapp.com/ >reeLegis</a> é uma plataforma que lhe permite pesquisar sobre quais foram os assuntos mais apresentados na Câmara dos Deputados entre 2019 e 2022, possibilitando, desse modo, conhecer o trabalho do Deputado ou Deputada Federal que você pretende votar no dia 02 de outubro de 2022.
+  content: 'O <a href= https://reelegis-reelegis-plataforma-reelegis-app-vpxy3k.streamlitapp.com/ >reeLegis</a> é produto do
+  <a href= https://cpcex-lab.rbind.io/ >Laboratório de Ciência Política Computacional e Experimental (@cpcex_lab)</a>, do
+  <a href= https://www.ufpe.br/politica >Departamento de Ciência Política da Universidade Federal de Pernambuco (DCP-UFPE)</a>.
+  Ele foi integralmente desenvolvido por <a href= https://cpcex-lab.rbind.io/author/renata-cavalcanti/>Renata Cavalcanti </a> e
+  <a href=https://cpcex-lab.rbind.io/author/bhreno-vieira/>Bhreno Vieira </a>,
+  doutorandos do Programa de Pós-graduação em Ciência Política da UFPE.
 
-Você irá utilizar nossa Versão Beta 🐠 . Isso indica que o projeto está em fase de crescimento e ao longo do período eleitoral traremos novas atualizações.
+  A plataforma permite comparar a atuação dos parlamentares que buscam se reeleger.
+  A partir do uso de aprendizagem computacional, nesta Versão Beta 🐠
+  analisamos mais de 30 mil propostas feitas por todos os deputados federais
+  que atuaram entre 2019 e 2022. Você vai conhecer quais assuntos foram priorizados pelos
+  candidatos à reeleição e assim poder compará-los para tomar a melhor decisão possível no dia da eleição.
 
-Pensamos em três modos, levando em consideração as possibilidades de como você pode votar na urna, pensamos em três modos de você encontrar o/a parlamentar que tem mais afinidade com os assuntos que você considera mais importante. Em nossa <a href= https://reelegis-reelegis-plataforma-reelegis-app-vpxy3k.streamlitapp.com/ >Plataforma Interativa</a>, você poderá:
+  Levando em consideração as possibilidades de como você pode votar na urna,
+   há três modos pelos quais você pode utilizar a ferramenta. Em nossa <a href= https://reelegis-reelegis-plataforma-reelegis-app-vpxy3k.streamlitapp.com/ >Plataforma Interativa</a>,
+    você poderá:
 
 
 </p>
@@ -80,11 +88,11 @@ Pensamos em três modos, levando em consideração as possibilidades de como voc
 
 <p class="lead">Esperamos que a plataforma possa lhe ajudar a fazer um voto mais consciente!</p>
 
-<p class="lead">E em breve teremos mais atualizações!</p>'
+<p class="lead">Em breve teremos mais atualizações!</p>'
 
   image:
-    x: "img/who-am-i/sobre-pic.png"
-    _2x: "img/who-am-i/sobre-pic.png"
+    x: "img/who-am-i/sobre-pic2.png"
+    _2x: "img/who-am-i/sobre-pic2.png"
 
 # education
 #education:
@@ -131,23 +139,6 @@ client_and_work:
   title: "Quem somos"
   enable: true
 
-  clients:
-    - logo:
-        x: "img/clients/labcpcex.png"
-        _2x: "img/clients/labcpcex.png"
-      alt: "labcpcex"
-
-    - logo:
-        x: "img/clients/dcp.png"
-        _2x: "img/clients/dcp.png"
-      alt: "UFPE"
-
-    - logo:
-        x: "img/clients/ufpe.png"
-        _2x: "img/clients/ufpe.png"
-      alt: "UFPE"
-
-
   works:
     - title: "Renata Cavalcanti"
       description: "Bacharel, Mestre e doutoranda em Ciência Política pela Universidade
@@ -179,7 +170,7 @@ client_and_work:
         URL: "https://cpcex-lab.rbind.io/author/bhreno-vieira/"
       image:
         x: "img/works/bhreno.png"
-        _2x: "img/works/bhreno.png"
+        _2x: "img/works/bhreno"
       is_even: true
 
 
@@ -187,27 +178,28 @@ client_and_work:
 testimonial:
   enable: true
   title: "Metodologia"
-  items:
-    - name: "Daniel Jordan"
-      position: "Phonet, CEO"
-      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
-      image:
-        x: "img/testimonials/daniel-jordan.jpg"
-        _2x: "img/testimonials/daniel-jordan@2x.jpg"
 
-    - name: "Jonathan Peters"
-      position: "Textic, CEO"
-      content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
-      image:
-        x: "img/testimonials/jonathan-peters.jpg"
-        _2x: "img/testimonials/jonathan-peters@2x.jpg"
+#apoio:
+#  title: "Apoio Institucional"
+#  enable: true
 
-    - name: "Antonio Willis"
-      position: "Cyberse, CEO"
-      content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
-      image:
-        x: "img/testimonials/antonio-willis.jpg"
-        _2x: "img/testimonials/antonio-willis@2x.jpg"
+#  clients:
+#    - logo:
+#        x: "img/clients/labcpcex.png"
+#        _2x: "img/clients/labcpcexx.png"
+#      alt: "labcpcex"
+#
+#    - logo:
+#        x: "img/clients/dcp.png"
+#        _2x: "img/clients/dcp.png"
+#      alt: "UFPE"
+
+#    - logo:
+#        x: "img/clients/ufpe.png"
+#        _2x: "img/clients/ufpe.png"
+#      alt: "UFPE"
+
+
 
 # contact
 contact:
@@ -227,9 +219,21 @@ contact:
     btnText: "Enviar mensagem"
 
 # newsletter
-#newsletter:
-#  enable: true
-#  title: "Newsletter subscription"
-#  success_message: "Successfully subscribed"
-#  error_message: "Error while subscribing."
-#  note: "We'll never share your email with anyone else."
+newsletter:
+  enable: true
+  title: "Apoio Institucional"
+  clients:
+      - logo:
+          x: "img/clients/labcpcex.png"
+          _2x: "img/clients/labcpcexx.png"
+        alt: "labcpcex"
+
+      - logo:
+          x: "img/clients/dcp.png"
+          _2x: "img/clients/dcp.png"
+        alt: "UFPE"
+
+      - logo:
+          x: "img/clients/ufpe.png"
+          _2x: "img/clients/ufpe.png"
+        alt: "UFPE"
