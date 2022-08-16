@@ -2,46 +2,49 @@
 <section id="metodologia" class="section rad-animation-group section--border-bottom">
     <div class="container">
         <h2 class="rad-fade-down">{{ .Site.Data.homepage.testimonial.title }}</h2>
-        <p> Para chegar aos resultados obtidos nesta
-          <a href=  https://reelegis-reelegis-plataforma-reelegis-app-vpxy3k.streamlitapp.com/ > Plataforma</a>,
-           ou seja, a tradução do conteúdo das ementas em áreas temáticas, utilizamos uma técnica de aprendizado
-           de máquina. Através desta metodologia é permitido organizar, compreender e descobrir quais
-           são os temas presentes em um conjunto de documentos, através das palavras nesse contido e assim
-           classificar cada documento no tópico que é mais apropriado. </p>
+        <p> Utilizamos métodos de ciência de dados e aprendizagem computacional para chegar aos resultados.
+          Assim, foi possível organizar, compreender e descobrir os temas presentes em um conjunto de quase
+          30 mil documentos com as propostas apresentadas por todos os quase 600 parlamentares analisados.
+        </p>
+        <p> A <a href= https://reelegis-reelegis-plataforma-reelegis-app-vpxy3k.streamlitapp.com/> Plataforma Interativa</a>
+          foi desenvolvida com a <a href= https://www.python.org> linguagem Python</a>,
+          o processamento dos dados foi feito através da <a href= https://www.r-project.org> linguagem R</a> e
+          utilizamos o <a href= http://www.structuraltopicmodel.com/> Structural Topic Model (STM)</a> para descobrir quais
+          são os temas mais enfatizados nesses documentos.
 
-          <p> Uma forma de compreender melhor essa metodologia seria supondo que você
-            tenha um conjunto de livros que nunca leu (os documentos) e apenas as informações
-            presentes no sumário e no título (as palavras), e com isso deseja organizá-lo na sua estante
-            por categorias (tópicos) que você deseja criar. Ao notar que palavras como “dragão”, “bruxos”, “magia”,
-             “elfos”, “caminhantes brancos” indicam que os livros pertencem a categoria de literatura fantástica,
-              já "cebola", "tomate", "macarrão" e "vinho" formam o grupo de livros sobre culinária,
-              enquanto palavras como “democracia”, “nações”, “políticos” ou “coalizão” enquadram os
-              livros na literatura sobre política. </p>
 
-              <p>No nosso caso, utilizamos as “palavras-chaves” presentes em cada proposta apresentada
-                pelos deputados e deputadas federais entre 2019 e 18 de julho de 2022 (56ª Legislatura)
-                 para descobrir os temas que os legisladores brasileiros enfatizaram neste período.
-                 As propostas e demais informações sobre os parlamentares foram retiradas do site da
-                  Câmara de Deputados. O processamento foi feito através da linguagem <b>R</b>
-                  e utilizamos a modelagem do algoritmo <b>Structural Topic Model (STM)</b> para descobrir
-                  quais são os temas mais enfatizados nesses documentos. </p>
+          <p> Uma forma de compreender o funcionamento do <a href= http://www.structuraltopicmodel.com/> STM</a>
+            é supor que você tem um conjunto de
+            livros (as propostas dos deputados e deputadas) que deseja organizar por categorias
+            (temas) na sua estante. Diante do conteúdo de cada livro, o modelo irá capturar que
+            palavras como “dragão”, “bruxos”, “magia”, “elfos”, “caminhantes brancos”
+            indicam que os livros pertencem à categoria de literatura fantástica, já "cebola",
+            "tomate", "macarrão" e "vinho" formam o grupo de livros sobre culinária, enquanto
+            palavras como “democracia”, “nações”, “políticos” ou “coalizão” enquadram parcela
+            dos livros na literatura sobre política.
+          </p>
 
-                  <p>O nosso modelo analisou 29.155 iniciativas legislativas,
-                    que se dividem entre Projetos de Lei, Propostas de Emenda à Constituição e
-                    Projetos de Lei Complementar. A escolha dessas matérias ocorreu por conta desses
-                    documentos resultarem nas políticas públicas do Estado brasileiro.
-                    Obtivemos uma probabilidade geral de <b>79% de acerto</b> da iniciativa
-                    estar correspondente ao tema encontrado.
+              <p>No nosso caso, utilizamos as “palavras-chaves” presentes em cada
+                proposta apresentada pelos deputados e deputadas federais entre 2019 e 18
+                de julho de 2022 (56ª Legislatura) para descobrir os temas que os legisladores
+                 brasileiros enfatizaram neste período. As propostas e demais informações sobre os
+                 parlamentares foram obtidas pelo portal da Câmara de Deputados.</p>
+
+                  <p>O nosso modelo analisou iniciativas legislativas, que se
+                    dividem entre Projetos de Lei, Propostas de Emenda à Constituição e Projetos
+                    de Lei Complementar. O foco sobre essas propostas correu porque esses documentos
+                    têm potencial de se tornar políticas públicas. Nessa Versão Beta 🐠,
+                    obtivemos uma probabilidade geral de <b>79% de acerto</b> da iniciativa corresponder ao tema encontrado.
 
                   <p>Qualquer dúvida sobre a metodologia da plataforma, entre
                     em contato conosco 📨 .</p>
-
+                    <!---
                     <p>Também sugerimos a pesquisa e leitura desses materiais:
 
                       <p><a href= http://www.structuraltopicmodel.com/> Página Oficial do STM.</a></p>
                       <p><a href= https://www.anpocs.com/index.php/bib-pt/bib-86/11215-o-texto-como-dado-desafios-e-oportunidades-para-as-ciencias-sociais/file> Texto como Dado</a></p>
                       <p><a href= "https://www.scielo.br/j/rbcsoc/a/gM7mG35jtmMBr45CNkqZKYq/?format=pdf&lang=pt"> Quais políticas importam? Usando ênfases na agenda legislativa para mensurar saliência.</a></p>
-
+                      --->
 
     </div>
 </section>

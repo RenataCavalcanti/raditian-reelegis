@@ -1,31 +1,88 @@
-{{ if .Site.Data.homepage.contact.enable }}
-<section id="contato" class="section section--contact pt-0">
-    <div class="container">
-        <div class="contact">
-            <h2>{{ .Site.Data.homepage.contact.title }}</h2>
-            <div class="row pt-2">
-                <div class="col-12 col-lg-7">
-                    <form action="https://getform.io/f/bcc10cd2-f0f7-4dde-94ec-675808d9cf92" method="POST">
-                      <input type="text" name="fullname" placeholder="Nome">
-                      <input type="email" name="email" placeholder="E-mail">
-                      <input type="text" name="message" placeholder="Mensagem">
+{{ if .Site.Data.homepage.newsletter.enable }}
+<section id="apoio" class="section section--border-bottom">
+  <div class="container">
+    <h2 class=" rad-animation-group rad-fade-down">
+      {{ .Site.Data.homepage.newsletter.title }}
+    </h2>
+    <p class="lead"> Esta plataforma foi desenvolvida pelos doutorandos do Departamento de Ciência Política
+      da Universidade Federal de Pernambuco (UFPE),
+      Renata Cavalcanti e
+      Bhreno Vieira como produto de um
+      projeto do <a href= https://cpcex-lab.rbind.io/ >Laboratório de Ciência Política Computacional e Experimental</a>,
+       supervisionado pelo Profº. Drº.
+       <a href=  https://cpcex-lab.rbind.io/author/davi-moreira/ > Davi Moreira.</a>
+       Contamos com o apoio institucional do <a href= https://cpcex-lab.rbind.io/ >Laboratório de Ciência Política Computacional e Experimental</a>,
+       do <a href= https://www.ufpe.br/politica >Programa de Pós-Graduação em Ciência Política (PPGCP)</a>
+        e da
+        <a href= https://www.ufpe.br/web/guest/inicio >Universidade Federal de Pernambuco (UFPE)</a>.
+        Destacamos que este é um projeto desenvolvido
+       por estudantes bolsistas de Doutorado de uma instituição de nível superior pública.
 
-                      <button type="submit" class="btn btn-primary">
-                          <i class="{{ .Site.Data.homepage.contact.button.icon }}"></i>
-                          {{ .Site.Data.homepage.contact.button.btnText }}
-                      </button>
-                    </form>
-                </div>
-                <div class="col-12 col-lg-5 contact__info">
-                    <h4>{{ .Site.Data.homepage.contact.phone.title }}</h4>
-                    <span>{{ .Site.Data.homepage.contact.phone.number }}</span>
-                    <h4>{{ .Site.Data.homepage.contact.email.title }}</h4>
-                    <span>{{ .Site.Data.homepage.contact.email.email | safeHTML }}</span>
-                    <h4>{{ .Site.Data.homepage.contact.address.title }}</h4>
-                    <span>{{ .Site.Data.homepage.contact.address.address | safeHTML }}</span>
-                </div>
-            </div>
+       </p>
+    <div class="row row--padded rad-animation-group rad-fade-down">
+      <div class="col-12">
+        <div class="clients">
+          {{ range .Site.Data.homepage.newsletter.clients }}
+          <div class="clients__item">
+            <a href="">
+              <img
+                class="lozad img-responsive"
+                src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+                data-src="{{ .logo.x | absURL }}"
+                data-srcset="{{ .logo.x | absURL }} 1x, {{ .logo._2x | absURL }} 2x"
+                alt="{{ .alt }}"
+              />
+            </a>
+          </div>
+          {{ end }}
         </div>
+      </div>
     </div>
+    {{ range $index, $element := .Site.Data.homepage.newsletter.works }}
+    <div
+      class="row row--padded rad-animation-group rad-fade-down {{ if .is_even }}flex-column-reverse flex-md-row{{ end }}"
+    >
+      {{ if .is_even }}
+      <div class="col-12 col-md-5 mt-4 mt-md-0 my-md-auto">
+        <h3>{{ .title }}</h3>
+        <p class="lead">
+          {{ .description }}
+        </p>
+        <a href="{{ .button.URL | absURL }}" class="btn btn-primary"
+          >{{ .button.btnText }}<i class="{{ .button.icon }}"></i
+        ></a>
+      </div>
+      <div class="col-12 col-md-7 pl-md-0 text-right">
+        <img
+          class='lozad img-responsive {{ cond (eq ( mod $index 4) 0) "img-clip-left-backward" "img-clip-left-forward" }}'
+          src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+          data-src="{{ .image.x | absURL }}"
+          data-srcset="{{ .image.x | absURL }} 1x, {{ .image._2x | absURL }} 2x"
+          alt="{{ .title }}"
+        />
+      </div>
+      {{ else }}
+      <div class="col-12 col-md-7 pl-md-0 text-right">
+        <img
+          class='lozad img-responsive {{ cond (eq ( mod $index 4) 1)  "img-clip-right-backward" "img-clip-right-forward" }}'
+          src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+          data-src="{{ .image.x | absURL }}"
+          data-srcset="{{ .image.x | absURL }} 1x, {{ .image._2x | absURL }} 2x"
+          alt="{{ .title }}"
+        />
+      </div>
+      <div class="col-12 col-md-5 mt-4 mt-md-0 my-md-auto">
+        <h3>{{ .title }}</h3>
+        <p class="lead">
+          {{ .description }}
+        </p>
+        <a href="{{ .button.URL | absURL }}" class="btn btn-primary"
+          >{{ .button.btnText }}<i class="{{ .button.icon }}"></i
+        ></a>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
 </section>
 {{ end }}
