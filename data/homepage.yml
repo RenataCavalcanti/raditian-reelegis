@@ -225,7 +225,7 @@ newsletter:
   clients:
       - logo:
           x: "img/clients/labcpcex.png"
-          _2x: "img/clients/labcpcexx.png"
+          _2x: "img/clients/labcpcex.png"
         alt: "labcpcex"
 
       - logo:
