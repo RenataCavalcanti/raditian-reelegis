@@ -170,7 +170,7 @@ client_and_work:
         URL: "https://cpcex-lab.rbind.io/author/bhreno-vieira/"
       image:
         x: "img/works/bhreno.png"
-        _2x: "img/works/bhreno"
+        _2x: "img/works/bhreno.png"
       is_even: true
 
 
