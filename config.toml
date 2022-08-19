@@ -46,7 +46,7 @@ theme = "raditian-free-hugo-theme"
 
   [[menu.header]]
   name = "Acesso à Plataforma"
-  URL = "https://reelegis-reelegis-plataforma-reelegis-app-vpxy3k.streamlitapp.com/"
+  URL = "https://reelegis-reelegis-plataforma-reelegis-app-sz2tnh.streamlitapp.com/"
   weight = 5
 
   [[menu.header]]
@@ -77,7 +77,7 @@ theme = "raditian-free-hugo-theme"
 
   [[menu.footer]]
   name = "Acesso à Plataforma"
-  URL = "https://reelegis-reelegis-plataforma-reelegis-app-vpxy3k.streamlitapp.com/"
+  URL = "https://reelegis-reelegis-plataforma-reelegis-app-sz2tnh.streamlitapp.com/"
   weight = 5
 
   [[menu.footer]]
