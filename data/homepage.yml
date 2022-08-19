@@ -24,7 +24,7 @@ showcase:
   button:
     icon: "icon-arrow-right"
     btnText: "Clique aqui para acessar nossa Plataforma"
-    URL: "https://reelegis-reelegis-plataforma-reelegis-app-vpxy3k.streamlitapp.com/"
+    URL: "https://reelegis-reelegis-plataforma-reelegis-app-sz2tnh.streamlitapp.com/"
 
   socialLinks:
 #    - icon: "linkedin"
@@ -61,7 +61,7 @@ showcase:
 about:
   enable: true
   title: "Sobre"
-  content: 'O <a href= https://reelegis-reelegis-plataforma-reelegis-app-vpxy3k.streamlitapp.com/ >reeLegis</a> é produto do
+  content: 'O <a href= https://reelegis-reelegis-plataforma-reelegis-app-sz2tnh.streamlitapp.com/ >reeLegis</a> é produto do
   <a href= https://cpcex-lab.rbind.io/ >Laboratório de Ciência Política Computacional e Experimental (@cpcex_lab)</a>, do
   <a href= https://www.ufpe.br/politica >Departamento de Ciência Política da Universidade Federal de Pernambuco (DCP-UFPE)</a>.
   Ele foi integralmente desenvolvido por <a href= https://cpcex-lab.rbind.io/author/renata-cavalcanti/>Renata Cavalcanti </a> e
@@ -75,7 +75,7 @@ about:
   candidatos à reeleição e assim poder compará-los para tomar a melhor decisão possível no dia da eleição.
 
   Levando em consideração as possibilidades de como você pode votar na urna,
-   há dois modos pelos quais você pode utilizar a ferramenta. Em nossa <a href= https://reelegis-reelegis-plataforma-reelegis-app-vpxy3k.streamlitapp.com/ >Plataforma Interativa</a>,
+   há dois modos pelos quais você pode utilizar a ferramenta. Em nossa <a https://reelegis-reelegis-plataforma-reelegis-app-sz2tnh.streamlitapp.com/>Plataforma Interativa</a>,
     você poderá:
 
 
