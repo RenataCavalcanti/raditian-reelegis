@@ -4,9 +4,6 @@ languageCode = "pt-br"
 theme = "raditian-free-hugo-theme"
 
 # The "title" of your website
-[params]
-title = "reeLegis"
-
 # Plugins
 [params.plugins]
 
