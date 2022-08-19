@@ -23,7 +23,7 @@ showcase:
 
   button:
     icon: "icon-arrow-right"
-    btnText: "Clique aqui para acessar nossa Plataforma"
+    btnText: "Acesse a Plataforma"
     URL: "https://reelegis-reelegis-plataforma-reelegis-app-sz2tnh.streamlitapp.com/"
 
   socialLinks:
