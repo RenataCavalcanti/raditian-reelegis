@@ -2,7 +2,6 @@
 homepage:
   head:
     title: "reeLegis"
-yml_site_opts: 'reeLegis'
 # showcase
 showcase:
   enable: true
