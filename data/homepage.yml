@@ -6,7 +6,7 @@ yml_site_opts: 'reeLegis'
 # showcase
 showcase:
   enable: true
-  title: "Olá! Somos o reeLegis"
+  title: "Olá, este é o reeLegis!"
   subtitle: ""
   description: "No dia 2 de outubro de 2022 teremos novas eleições.
   É uma oportunidade valiosa para renovar ou premiar a atual composição do Congresso Nacional.
@@ -70,8 +70,8 @@ about:
   doutorandos do Programa de Pós-graduação em Ciência Política da UFPE.
 
   A plataforma permite comparar a atuação dos parlamentares que buscam se reeleger.
-  A partir do uso de aprendizagem computacional, nesta Versão Beta 🐠
-  analisamos mais de 30 mil propostas feitas por todos os deputados federais
+  A partir do uso de aprendizagem computacional, nesta Versão Beta 🐠 (v.0.0.1),
+  analisamos mais de 30 mil propostas apresentadas por todos os deputados federais
   que atuaram entre 2019 e 2022. Você vai conhecer quais assuntos foram priorizados pelos
   candidatos à reeleição e assim poder compará-los para tomar a melhor decisão possível no dia da eleição.
 
