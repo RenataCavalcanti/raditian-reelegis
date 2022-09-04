@@ -178,6 +178,55 @@ testimonial:
   enable: true
   title: "Metodologia"
 
+colaboracao:
+  enable: true
+  title: "Colaboração"
+  items:
+    - name: "Ana Beatriz Ferreira"
+      position: "Graduanda em Ciência Política"
+      content: ""
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Conheça Ana Beatriz!"
+        URL: "https://cpcex-lab.rbind.io/author/ana-beatriz-ferreira/"
+      image:
+        x: "img/testimonials/anabeatrizferreira.png"
+        _2x: "img/testimonials/anabeatrizferreira.png"
+    - name: "Antônio Pires"
+      position: "Doutorando em Ciência Política"
+      content: ""
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Conheça Antônio Pires!"
+        URL: "https://cpcex-lab.rbind.io/author/antonio-pires/"
+      image:
+        x: "img/testimonials/antonio.png"
+        _2x: "img/testimonials/antonio.png"
+    - name: "Júlia Barreto"
+      position: "Graduanda em Ciência Política"
+      content: ""
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Conheça Julia Barreto!"
+        URL: "https://cpcex-lab.rbind.io/author/julia-barreto/"
+      image:
+        x: "img/testimonials/juliabarreto.png"
+        _2x: "img/testimonials/juliabarreto.png"
+    - name: "Júlia Partick"
+      position: "Graduanda em Ciência Política"
+      content: ""
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Conheça Júlia Partick!"
+        URL: "https://cpcex-lab.rbind.io/author/julia-pastick/"
+      image:
+        x: "img/testimonials/juliapastick.png"
+        _2x: "img/testimonials/juliapastick.png"
+
+
+
+
+
 #apoio:
 #  title: "Apoio Institucional"
 #  enable: true
