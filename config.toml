@@ -42,7 +42,7 @@ theme = "raditian-free-hugo-theme"
   [[menu.header]]
   name = "Contato"
   URL = "#contato"
-  weight = 7
+  weight = 8
 
   [[menu.header]]
   name = "Acesso à Plataforma"
@@ -57,6 +57,11 @@ theme = "raditian-free-hugo-theme"
   [[menu.header]]
   name = "Apoio"
   URL = "#apoio"
+  weight = 7
+
+  [[menu.header]]
+  name = "Colaboração"
+  URL = "#colaboracao"
   weight = 6
 
 
@@ -69,6 +74,11 @@ theme = "raditian-free-hugo-theme"
   name = "Quem somos"
   URL = "#quem-somos"
   weight = 3
+
+  [[menu.footer]]
+  name = "Colaboração"
+  URL = "#colaboracao"
+  weight = 6
 
   [[menu.footer]]
   name = "Contato"
@@ -93,7 +103,7 @@ theme = "raditian-free-hugo-theme"
 
 [params]
 
-  sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
+  sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "colaboracao", "contact", "newsletter"]
 
   googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
 
