@@ -1,30 +1,26 @@
 # homepage
 homepage:
   head:
-    title: "reeLegis"
+    title: "Verbo ao Voto"
 # showcase
 showcase:
   enable: true
-  title: "Olá, este é o reeLegis!"
+  title: "Olá, este é o Verbo ao Voto!"
   subtitle: ""
-  description: "No dia 2 de outubro de 2022 teremos novas eleições.
-  É uma oportunidade valiosa para renovar ou premiar a atual composição do Congresso Nacional.
-  Pensando nisso, apresentamos a <a href= https://reelegis-reelegis-plataforma-reelegis-app-sz2tnh.streamlitapp.com/ >Plataforma reeLegis!</a>
-  Com o uso de aprendizagem computacional, ela permite analisar e
-  comparar a atuação de todos os Deputados e Deputadas Federais que buscam
-   a reeleição. E aí? Vai reeleger ou renovar?"
+  description: "No dia 2 de outubro de 2022 temos eleições presidenciais. Até lá, os principais candidatos disputam voto a voto com propostas, promessas, debates, postagens em redes sociais e ataques a seus concorrentes em campanha diária. Para retratar a corrida pelo Planalto,  o Laboratório de Ciência Política Computacional e Experimental (@cpcex_lab) lança seu monitor da campanha eleitoral, o Verbo ao Voto. O objetivo do projeto é subsidiar jornalistas, marqueteiros, assessores, os próprios candidatos e a sociedade brasileira com informações sumárias e atualizadas sobre a disputa eleitoral."
   image:
-    alt: "reeLegis"
-    x: "img/showcase/logo-inicio4.png"
-    _2x: "img/showcase/logo-inicio4.png"
+    alt: "Verbo ao Voto"
+    x: "img/showcase/verbo_ao_voto_03.gif"
+    _2x: "img/showcase/verbo_ao_voto_03.gif"
   imageMobile:
-    alt: "reeLegis"
-    x: "img/showcase/logo-inicio4.png"
+    alt: "Verbo ao Voto"
+    x: "img/showcase/verbo_ao_voto_03.gif"
+    _2x: "img/showcase/verbo_ao_voto_03.gif"
 
   button:
     icon: "icon-arrow-right"
     btnText: "Acesse a Plataforma"
-    URL: "https://reelegis-reelegis-plataforma-reelegis-app-sz2tnh.streamlitapp.com/"
+    URL: ""
 
   socialLinks:
 #    - icon: "linkedin"
@@ -33,8 +29,8 @@ showcase:
 #    - icon: "github"
 #      URL: "https://github.com/radity"
 #
-    - icon: "twitter"
-      URL: "https://twitter.com/ree_legis"
+#    - icon: "twitter"
+#      URL: "https://twitter.com/radity"
 #
 #    - icon: "dribbble"
 #      URL: "https://dribbble.com/radity"
@@ -46,7 +42,7 @@ showcase:
 #      URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
 #
     - icon: "instagram"
-      URL: "https://www.instagram.com/ree_legis/"
+      URL: "https://www.instagram.com/verbo_voto/"
 #
 #    - icon: "facebook"
 #      URL: "https://www.facebook.com/raditycom/"
@@ -61,37 +57,17 @@ showcase:
 about:
   enable: true
   title: "Sobre"
-  content: 'O <a href= https://reelegis-reelegis-plataforma-reelegis-app-sz2tnh.streamlitapp.com/ >reeLegis</a> é produto do
-  <a href= https://cpcex-lab.rbind.io/ >Laboratório de Ciência Política Computacional e Experimental (@cpcex_lab)</a>, do
-  <a href= https://www.ufpe.br/politica >Departamento de Ciência Política da Universidade Federal de Pernambuco (DCP-UFPE)</a>.
-  Ele foi integralmente desenvolvido por <a href= https://cpcex-lab.rbind.io/author/renata-cavalcanti/>Renata Cavalcanti </a> e
-  <a href=https://cpcex-lab.rbind.io/author/bhreno-vieira/>Bhreno Vieira </a>,
-  doutorandos do Programa de Pós-graduação em Ciência Política da UFPE.
-
-  A plataforma permite comparar a atuação dos parlamentares que buscam se reeleger.
-  A partir do uso de aprendizagem computacional, nesta Versão Beta 🐠 (v.0.0.1),
-  analisamos mais de 30 mil propostas apresentadas por todos os deputados federais
-  que atuaram entre 2019 e 2022. Você vai conhecer quais assuntos foram priorizados pelos
-  candidatos à reeleição e assim poder compará-los para tomar a melhor decisão possível no dia da eleição.
-
-  Levando em consideração as possibilidades de como você pode votar na urna,
-   há dois modos pelos quais você pode utilizar a ferramenta. Em nossa <a href= https://reelegis-reelegis-plataforma-reelegis-app-sz2tnh.streamlitapp.com/ >Plataforma Interativa</a>,
-    você poderá:
+  content: 'O Verbo ao Voto é produto do <a href= https://cpcex-lab.rbind.io>Laboratório de Ciência Política Computacional e Experimental (@cpcex_lab)</a> , do Departamento de <a href= https://www.ufpe.br/dcp >Ciência Política da Universidade Federal de Pernambuco (DCP-UFPE)</a>. Ele foi desenvolvido por Mônica Rocabado, mestranda em Administração Pública e Governo pela FGV EAESP, Antônio Pires, doutorando do Programa de Pós-graduação em Ciência Política da UFPE, sob coordenação do Prof. Dr. Davi Moreira. A plataforma permite comparar a campanha dos principais candidatos à Presidência da República com o uso de dados do Banco de Discursos publicados pela plataforma Escriba da Agência Aos Fatos através do projeto Discursos Presidenciais e a coleta de dados em plataformas como o Twitter.
 
 
-</p>
-<p class="lead"> 1. Escolher o parlamentar de modo individual no seu distrito eleitoral (o estado em que você vota) - voto no parlamentar individual; </p>
-
-<p class="lead"> 2. Escolher o partido em que você possui uma maior preferência - voto na legenda partidária.</p>
-
-
-<p class="lead">Esperamos que a plataforma possa lhe ajudar a fazer um voto mais consciente!</p>
+<p class="lead"> Com o uso de aprendizagem computacional, estatísticas descritivas e inferenciais, o projeto apresenta informações sumárias e temporais sobre a corrida presidencial. Na versão lançada, mais de XXX horas? XXXde XXXX falas foram analisadas e a expectativa é de atualização constante dos dados e das informações até o final do pleito presidencial. Você vai conhecer quais assuntos foram priorizados pelos candidatos, as menções a adversários, os ataques realizados, a polarização da campanha e as principais estatísticas de toda a corrida eleitoral. A ferramenta tem como objetivo subsidiar a cobertura jornalística, marqueteiros, assessores, equipes de campanha, os próprios candidatos e a sociedade brasileira com informações sumárias e atualizadas sobre a disputa.
+ </p>
 
 <p class="lead">Em breve teremos mais atualizações!</p>'
 
   image:
-    x: "img/who-am-i/sobre-pic2.png"
-    _2x: "img/who-am-i/sobre-pic2.png"
+    x: "img/who-am-i/sobre-pic.png"
+    _2x: "img/who-am-i/user-picture.png"
 
 # education
 #education:
@@ -138,115 +114,49 @@ client_and_work:
   title: "Quem somos"
   enable: true
 
+
   works:
-    - title: "Renata Cavalcanti"
-      description: "Bacharel, Mestre e doutoranda em Ciência Política pela Universidade
-      Federal de Pernambuco (UFPE). Gosto bastante de realizar Análise de Dados na linguagem R e
-      sei um pouco de Python. Atualmente faço parte do
-      Laboratório de Ciência Política Computacional e Experimental (@cpcex_lab) e do Grupo de Estudos sobre
-      Comportamento Político e Opinião Pública (UFPE).
-      Minhas áreas de interesse são Análise de Dados, Texto como Dado, Programação,
-      Comportamento Político e Opinião Pública."
+    - title: "Mônica Rocabado"
+      description: "Pesquisadora no CeDHE - FGV, mestranda em Administracao Pública e Governo pela FGV EAESP, bacharel em Administração Pública pela FGV e cientista de dados em formação.
+
+Sou apaixonada em compreender, descobrir e sintetizar informações complexas em conteúdo visual e agradável ao leitor, para isso utilizando principalmente a linguagem R. Já trabalhei no governo em um laboratório de inovação, em consultoria política e agora integro um núcleo de pesquisa voltado a empresas e direitos humanos. Também realizei trabalho voluntário no Youth Voices Brasil, iniciativa apoiada pelo Banco Mundial, no time de pesquisa."
       button:
         icon: "icon-arrow-right"
         btnText: "Conheça um pouco mais sobre mim!"
-        URL: "https://cpcex-lab.rbind.io/author/renata-cavalcanti/"
+        URL: "https://cpcex-lab.rbind.io/author/monica-rocabado/"
       image:
-        x: "img/works/renata-2.png"
-        _2x: "img/works/renata-2.png"
+        x: "img/works/monica2.jpg"
+        _2x: "img/works/monica2.jpg"
       is_even: true
 
-    - title: "Bhreno Vieira"
-      description: "Bacharel, Mestre e doutorando em Ciência Política
-      pela Universidade Federal de Pernambuco (UFPE). Minha pesquisa se concentra
-      amplamente em estudos legislativos. Membro do Grupo de Instituições,
-      Política e Governo (UFPE) e do Laboratório de Ciência Política
-      Computacional e Experimental. Também sou bastante interessado em
-      Texto como Dado e Pesquisas Qualitativas. "
+    - title: "Antônio Pires"
+      description: "Bacharel em Direito, Mestre e Doutorando em Ciência Política pela Universidade Federal de Pernambuco (UFPE). Sou membro do Laboratório de Ciência Política Computacional e Experimental (@cpcex_lab) e do Núcleo de Estudos de Política Comparada e Relações Internacionais (@nepiufpe). Meus interesses de pesquisa são Análise Automatizada de Texto e o Conselho de Segurança das Nações Unidas."
       button:
         icon: "icon-arrow-right"
         btnText: "Conheça um pouco mais sobre mim!"
-        URL: "https://cpcex-lab.rbind.io/author/bhreno-vieira/"
+        URL: "https://cpcex-lab.rbind.io/author/antonio-pires/"
       image:
-        x: "img/works/bhreno-2.jpg"
-        _2x: "img/works/bhreno-2.jpg"
+        x: "img/works/antonio.jpg"
+        _2x: "img/works/antonio.jpg"
       is_even: true
+    - title: "Davi Moreira"
+
+      description: "Professor de Ciência Política do Departamento de Ciência Política da Universidade Federal de Pernambuco. Em 2017 fui premiado pelo Prêmio CAPES de Tese em Ciência Política e Relações Internacionais. Meu trabalho acadêmico aborda Metodologia Política, Ciência de Dados, Texto como Dado, Inteligência Artificial e Política Comparada."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Conheça um pouco mais sobre mim!"
+        URL: "https://cpcex-lab.rbind.io/author/davi-moreira/"
+      image:
+        x: "img/works/davi.jpg"
+        _2x: "img/works/davi.jpg"
+      is_even: true
+
 
 
 # testimonial
 testimonial:
   enable: true
-  title: "Metodologia"
-
-colaboracao:
-  enable: true
   title: "Colaboração"
-  items:
-    - name: "Ana Beatriz Ferreira"
-      position: "Graduanda em Ciência Política"
-      content: ""
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Conheça Ana Beatriz!"
-        URL: "https://cpcex-lab.rbind.io/author/ana-beatriz-ferreira/"
-      image:
-        x: "img/testimonials/anabeatrizferreira.png"
-        _2x: "img/testimonials/anabeatrizferreira.png"
-    - name: "Antônio Pires"
-      position: "Doutorando em Ciência Política"
-      content: ""
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Conheça Antônio Pires!"
-        URL: "https://cpcex-lab.rbind.io/author/antonio-pires/"
-      image:
-        x: "img/testimonials/antonio.png"
-        _2x: "img/testimonials/antonio.png"
-    - name: "Julia Barreto"
-      position: "Graduanda em Ciência Política"
-      content: ""
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Conheça Julia Barreto!"
-        URL: "https://cpcex-lab.rbind.io/author/julia-barreto/"
-      image:
-        x: "img/testimonials/juliabarreto.png"
-        _2x: "img/testimonials/juliabarreto.png"
-    - name: "Júlia Pastick"
-      position: "Graduanda em Ciência Política"
-      content: ""
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Conheça Júlia Pastick!"
-        URL: "https://cpcex-lab.rbind.io/author/julia-pastick/"
-      image:
-        x: "img/testimonials/juliapastick.png"
-        _2x: "img/testimonials/juliapastick.png"
-
-
-
-
-
-#apoio:
-#  title: "Apoio Institucional"
-#  enable: true
-
-#  clients:
-#    - logo:
-#        x: "img/clients/labcpcex.png"
-#        _2x: "img/clients/labcpcexx.png"
-#      alt: "labcpcex"
-#
-#    - logo:
-#        x: "img/clients/dcp.png"
-#        _2x: "img/clients/dcp.png"
-#      alt: "UFPE"
-
-#    - logo:
-#        x: "img/clients/ufpe.png"
-#        _2x: "img/clients/ufpe.png"
-#      alt: "UFPE"
-
 
 
 # contact
@@ -285,3 +195,11 @@ newsletter:
           x: "img/clients/ufpe.png"
           _2x: "img/clients/ufpe.png"
         alt: "UFPE"
+
+# newsletter
+#newsletter:
+#  enable: true
+#  title: "Newsletter subscription"
+#  success_message: "Successfully subscribed"
+#  error_message: "Error while subscribing."
+#  note: "We'll never share your email with anyone else."
