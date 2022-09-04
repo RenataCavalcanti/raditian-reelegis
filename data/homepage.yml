@@ -202,7 +202,7 @@ colaboracao:
       image:
         x: "img/testimonials/antonio.png"
         _2x: "img/testimonials/antonio.png"
-    - name: "Júlia Barreto"
+    - name: "Julia Barreto"
       position: "Graduanda em Ciência Política"
       content: ""
       button:
