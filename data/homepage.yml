@@ -212,12 +212,12 @@ colaboracao:
       image:
         x: "img/testimonials/juliabarreto.png"
         _2x: "img/testimonials/juliabarreto.png"
-    - name: "Júlia Partick"
+    - name: "Júlia Pastick"
       position: "Graduanda em Ciência Política"
       content: ""
       button:
         icon: "icon-arrow-right"
-        btnText: "Conheça Júlia Partick!"
+        btnText: "Conheça Júlia Pastick!"
         URL: "https://cpcex-lab.rbind.io/author/julia-pastick/"
       image:
         x: "img/testimonials/juliapastick.png"
